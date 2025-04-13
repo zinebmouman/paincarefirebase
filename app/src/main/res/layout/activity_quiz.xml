@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/light_blue"
+    tools:context="com.spmenais.paincare.Quiz_Activity">
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/background">
+        
+        <ImageView
+            android:id="@+id/backBtn"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="15dp"
+            android:src="@drawable/ic_back"
+            android:contentDescription="@string/image" />
+
+        <TextView
+            android:id="@+id/topicName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/topic_name"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/questions"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/round_back_white10"
+        android:elevation="1dp"
+        android:gravity="center"
+        android:paddingStart="15dp"
+        android:paddingEnd="15dp"
+        android:text="@string/_1_10"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="-20dp"
+        android:background="@drawable/round_back_light_yellow10"
+        android:gravity="center"
+        android:minHeight="100dp"
+        android:text="@string/question_will_appear_here"
+        android:padding="20dp"
+        android:textColor="#CC000000"
+        android:textSize="16sp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/option1"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="40dp"
+                android:text="@string/option"
+                android:background="@drawable/round_back_white_stroke2_10"
+                android:textAllCaps="false"
+                android:textColor="#1F6BB8"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:layout_marginEnd="20dp"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/option2"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="30dp"
+                android:text="@string/option"
+                android:background="@drawable/round_back_white_stroke2_10"
+                android:textAllCaps="false"
+                android:textColor="#1F6BB8"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:layout_marginEnd="20dp"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/option3"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="30dp"
+                android:text="@string/option"
+                android:background="@drawable/round_back_white_stroke2_10"
+                android:textAllCaps="false"
+                android:textColor="#1F6BB8"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:layout_marginEnd="20dp"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/option4"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="30dp"
+                android:text="@string/option"
+                android:background="@drawable/round_back_white_stroke2_10"
+                android:textAllCaps="false"
+                android:textColor="#1F6BB8"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:layout_marginEnd="20dp"/>
+
+            <TextView
+                android:id="@+id/explanationText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginTop="25dp"
+                android:padding="8dp"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:background="@drawable/next_btn"
+                android:textColor="#CC000000"
+                android:visibility="gone"
+                android:layout_gravity="center_horizontal"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/nextBtn"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="40dp"
+                android:text="@string/next"
+                android:background="@drawable/next_btn"
+                android:textAllCaps="false"
+                android:textColor="@color/green"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:layout_marginEnd="20dp"
+                android:layout_marginBottom="15dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

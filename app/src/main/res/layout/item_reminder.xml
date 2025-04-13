@@ -1,0 +1,58 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp"
+    android:background="@drawable/custom_background"
+    android:layout_margin="5dp">
+
+    <CheckBox
+        android:id="@+id/activeCheckbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:buttonTint="@color/pink"
+        android:layout_gravity="center_vertical" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/titleTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:id="@+id/repeatDaysTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="@android:color/darker_gray" />
+
+        <TextView
+            android:id="@+id/dateTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="8dp"/>
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/deleteButton"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:src="@drawable/delete"
+        android:contentDescription="@string/cancel"
+        android:padding="8dp"
+        android:layout_gravity="center_vertical" />
+
+</LinearLayout>

@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id">1063873527410-4pte50gh9jnn116dirrl6qm3q1ffc3o0.apps.googleusercontent.com</string>
+    <string name="app_name">myApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+
+    <string name="update_event_title_hint">Update Event Title</string>
+    <string name="update_event_note_hint">Update Event Note</string>
+    <string name="title_prefix">Title : </string>
+    <string name="note_prefix">Note : </string>
+    <string name="update_button_label">Update</string>
+
+    <string name="delete_confirmation_title">Confirm Delete</string>
+    <string name="delete_confirmation_message">Are you sure you want to delete this event?</string>
+    <string name="event_deleted_successfully">Event deleted successfully</string>
+    <string name="error_deleting_event">Error deleting event</string>
+
+    <string name="score_label">Score:</string>
+    <string name="report_label">Report</string>
+    <string name="open_report_button_label">Open Report</string>
+
+    <string name="diagnostic_label">Diagnostic test:</string>
+    <string name="weight_data">Enter your weight in kg </string>
+    <string name="height_data">Enter your height in cm</string>
+    <string name="RiskLevel">Risk level :</string>
+    <string name="UserAnswer">Answer :</string>
+    <string name="name_label">Name:</string>
+    <string name="email_label">Email:</string>
+    <string name="birthday_label">Birthday:</string>
+    <string name="pain_average_label">Pain Average:</string>
+    <string name="diagnostic_report_title">Diagnostic Test Report</string>
+
+    <string name="Low">Low</string>
+    <string name="Medium">Medium</string>
+    <string name="High">High</string>
+    <string name="No_Risk">Ready</string>
+
+    <string name="home">Home</string>
+    <string name="track">Track</string>
+    <string name="community">Community</string>
+
+    <string name="Publish">Publish</string>
+    <string name="Publish_blog">Publish Blog</string>
+    <string name="select_img">Select an Image!!</string>
+    <string name="Write_comment">Write Comment</string>
+    <string name="Add">Add</string>
+    <string name="Search_blogs">Search Blogs</string>
+    <string name="share_btn">Share</string>
+    <string name="shared">Shared</string>
+    <string name="confirm_delete_comment">Do you want to delete this comment?</string>
+
+    <string name="pain_evolution">Pain evolution</string>
+    <string name="pain_average">Pain Average :</string>
+    <string name="pain_score">Pain scores</string>
+    <string name="pain_locations">Pain Locations</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="pain_worse_title">What Makes Pain Worse?</string>
+    <string name="feelings">Feelings</string>
+    <string name="medications">Medications</string>
+
+    <string name="choose_topic">Choose Topic</string>
+    <string name="endometriosis_label">Endometriosis</string>
+    <string name="fertility_label">Fertility</string>
+    <string name="intimate_health_label">Intimate Health</string>
+    <string name="menstrual_cycle">Menstrual Cycle</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="quiz_congratulation">You\'ve successfully completed the Quiz</string>
+
+    <string name="diagnostic_txt">Do you suffer from painful periods? \nTake this questionnaire to find out your risk for endometriosis.</string>
+    <string name="go">GO</string>
+    <string name="diag_result">Test result</string>
+
+    <string name="add_reminder">Add Reminder</string>
+    <string name="title...">Title&#8230;</string>
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thursday">Thu</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+    <string name="sunday">Sun</string>
+    <string name="Repeat">Repeat : </string>
+
+    <string name="faq_label">Most frequently asked questions</string>
+    <string name="endo_faq_title">Endometriosis FAQ</string>
+
+    <string name="last_score">Last score</string>
+    <string name="home_score_desc">Update your score regularly</string>
+    <string name="home_title">What are you looking for : </string>
+    <string name="diagnostic_test">Diagnostic test</string>
+    <string name="diagnostic_test_desc">Discover your potential endometriosis diagnosis.</string>
+    <string name="endo_informations">Endo Informations</string>
+    <string name="endo_informations_desc">Stay informed about endometriosis.</string>
+    <string name="pain_evolution_desc">Explore your pain journey.</string>
+    <string name="quiz_desc">Test your knowledge about endometriosis.</string>
+
+    <string name="today">Today</string>
+    <string name="pain_level">Pain Level</string>
+
+    <string name="alarmslist">Alarms list</string>
+    <string name="Profile">Profile</string>
+    <string name="alarm">Alarm</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="change_language">Change language</string>
+    <string name="notif_settings">Notifications settings</string>
+    <string name="share_app">Share app</string>
+    <string name="logout">Logout</string>
+    <string name="deleteAccount">Delete Account</string>
+    <string name="Calendar">Calendar</string>
+    <string name="AboutUs">About Us</string>
+
+    <string name="choose_language">Choose a Language</string>
+
+    <string name="about_us_text">The PainCare m-Health solution was developed with the goal of providing comprehensive resources and assistance to women who are struggling with endometriosis. It aims to assist individuals by giving them access to customized symptom tracking, educational materials, and a supportive community. The main goal is to provide women with endometriosis with a user-friendly and accessible tool for pain-management, information, and emotional support in order to improve their overall wellness and quality of life. This includes women who suspect they may have the condition. With PainCare, women can take control of their condition and move towards a happier and healthier life.</string>
+    <string name="References">References</string>
+    <string name="link1_label">advancedgynaecologymelbourne</string>
+    <string name="link2_label">mayoclinic</string>
+    <string name="link3_label">clevelandclinic</string>
+    <string name="link1_url">https://www.advancedgynaecologymelbourne.com.au/endometriosis/symptoms</string>
+    <string name="link2_url">https://www.mayoclinic.org/diseases-conditions/endometriosis/symptoms-causes/syc-20354656#:~:text=However%2C%20there%20are%20some%20factors,having%20a%20low%20body%20mass</string>
+    <string name="link3_url">https://my.clevelandclinic.org/health/diseases/10857-endometriosis</string>
+
+    <string name="AddEvent">Add Event</string>
+
+    <string name="delete_account_title">Delete Account</string>
+    <string name="delete_account_message">Are you sure you want to delete your account?</string>
+    <string name="delete_data_radio_label">Delete Data</string>
+    <string name="keep_data_radio_label">Keep Data</string>
+
+    <string name="welcome_label">Get Started with PainCare</string>
+
+    <string name="Endo_Symptoms">What are the symptoms of Endometriosis?</string>
+    <string name="Endometriosis">What is Endometriosis ?</string>
+    <string name="Endo_riskFactors">What can raise my chances of suffering from Endometriosis?</string>
+    <string name="Endo_traitement">How is Endometriosis treated?</string>
+    <string name="Endo_reduces">How can I reduce my chances of getting Endometriosis?</string>
+    <string name="Endo_health_prob">How is Endometriosis treated?</string>
+    <string name="Endo_importance">Why is it important to find out if I have Endometriosis?</string>
+
+    <string name="Endo_Symptoms_answer">The most common symptom of Endometriosis is pelvic pain. The pain often occurs with menstruation, during ovulation, and/or in connection with sexual intercourse. However, a woman with Endometriosis may also experience pain at other times during her monthly cycle. Another symptom is infertility. Some women with Endometriosis also experience severe fatigue.</string>
+    <string name="Endometriosis_answer"> Endometriosis is a condition where tissue similar to the lining of the uterus is also found elsewhere in the body, mainly in the abdominal cavity.</string>
+    <string name="Endo_riskFactors_answer">You are more likely to get Endometriosis if you have: \n•Never had children. \n•Menstrual periods that last more than seven days. \n•Short menstrual cycles (27 days or less). \n•A family member (mother, aunt, sister) with Endometriosis.\n•A health problem that prevents normal passage of menstrual blood flow. \n•Damage to the cells in the pelvis from an infection.</string>
+    <string name="Endo_traitement_answer"> There is no cure for Endometriosis, but there are many treatments for the pain and infertility it causes. Talk with your doctor about what option is best for you. The treatment you choose will depend on your symptoms, age, and plans for getting pregnant.\nPain Medication -— For some women with mild symptoms, doctors may suggest taking over-the-counter medicines for pain.\nHormone Treatment — When pain medicine is not enough, doctors often recommend hormone medicines to treat Endometriosis. Only women who do not wish to become pregnant, can use these drugs.\n Surgery — Surgery is usually the best choice for women with severe Endometriosis with many growths, a great deal of pain, or fertility problems. </string>
+    <string name="Endo_reducess_answer">Keep lower estrogen levels in your body.  Try: \n•Exercising regularly. \n•Keeping a low amount of body fat. \n•Avoiding large amounts of alcohol and drinks with caffeine</string>
+    <string name="Endo_health_prob_answer">Growths of Endometriosis are benign (not cancerous), but they still can cause many problems. Tissue and blood that is shed into the body can cause inflammation, scar tissue, and pain. As endometrial tissue grows, it can cover or grow into the ovaries and block the fallopian tubes. Trapped blood in the ovaries can form cysts as well as cause inflammation scarring (adhesions) that sometimes bind organs together. This scar tissue may cause pelvic pain and make it difficult for women to get pregnant. The growths can also cause problems in the intestines and bladder.</string>
+    <string name="Endo_importance_answer">Studies show that women with Endometriosis skip school, work, and social events. This health problem can strain relationships with your partner, friends, children, and co-workers. Plus, Endometriosis can make it difficult for a woman to get pregnant. When Endometriosis causes fertility problems, surgery can boost the chances of getting pregnant.</string>
+
+    <string name="title_activity_drawer_actvity">DrawerActvity</string>
+    <string name="nav_header_title">Blog App</string>
+    <string name="nav_header_subtitle">youtube.com/artorean</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Publish Blog</string>
+    <string name="menu_slideshow">Profile</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="pain_level_non">None</string>
+    <string name="pain_level_mild">Mild</string>
+    <string name="pain_level_moderate">Moderate</string>
+    <string name="pain_level_severe">Severe</string>
+    <string name="pain_level_very_severe">Very Severe</string>
+    <string name="pain_level_worst">Worst pain possible</string>
+
+    <!-- Pain Location Options -->
+    <string name="abdomen">Abdomen</string>
+    <string name="back">Back</string>
+    <string name="chest">Chest</string>
+    <string name="head">Head</string>
+    <string name="neck">Neck</string>
+    <string name="hips">Hips</string>
+
+    <!-- Symptoms Options -->
+    <string name="cramps">Cramps</string>
+    <string name="tender_breasts">Tender breasts</string>
+    <string name="headache">Headache</string>
+    <string name="acne">Acne</string>
+    <string name="fatigue">Fatigue</string>
+    <string name="bloating">Bloating</string>
+    <string name="craving">Craving</string>
+
+    <!-- Pain Worse Options -->
+    <string name="lack_of_sleep">Lack of sleep</string>
+    <string name="sitting">Sitting</string>
+    <string name="standing">Standing</string>
+    <string name="stress">Stress</string>
+    <string name="walking">Walking</string>
+    <string name="exercise">Exercise</string>
+    <string name="urination">Urination</string>
+
+    <!-- Feeling Options -->
+    <string name="anxious">Anxious</string>
+    <string name="depressed">Depressed</string>
+    <string name="dizzy">Dizzy</string>
+    <string name="vomiting">Vomiting</string>
+    <string name="diarrhea">Diarrhea</string>
+
+    <!-- Meds Options -->
+    <string name="nothing">Nothing</string>
+
+    <!-- Diagnostic test questions -->
+    <string name="periodStart">When do you start your period ?</string>
+    <string name="periodStartOpt1">Befor 11 years old</string>
+    <string name="periodStartOpt2">Above 11 years old</string>
+    <string name="cycleLength">Your menstrual cycle length average ?</string>
+    <string name="cycleLengthOpt1">Less than 27 days</string>
+    <string name="cycleLengthOpt2">More than 27 days</string>
+    <string name="NotSure">Not sure</string>
+    <string name="famillyHistory"> Do you have a familly history of endometriosis ?</string>
+    <string name="giveBirth"> Did you give birth ?</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="pregnantTrouble">Do you have trouble getting pregnant ?</string>
+    <string name="BMIqst">Body mass index : calculate your BMI</string>
+    <string name="painIntensity">What is your abdominal/pelvic pain intensity ?</string>
+    <string name="whenPain">When do you experience abdominal or pelvic pain ? </string>
+    <string name="RelatedPeriod">Related to period </string>
+    <string name="RelatedOvulation">Related to ovulation</string>
+    <string name="Unrelated">Unrelated to period and ovulation</string>
+    <string name="intercoursePain">Severity of pain during intercourse ?</string>
+    <string name="painWorse">What makes your pain worse ?</string>
+    <string name="Orgasm">Orgasm</string>
+    <string name="BowelMovement">Bowel movement</string>
+    <string name="FullBladder">Full bladder</string>
+    <string name="Urination">Urination</string>
+    <string name="NotRelated">Not related to anything</string>
+    <string name="DurationPeriod">Duration of period ?</string>
+    <string name="Less7">1-7 days</string>
+    <string name="More7">More than 7 days</string>
+    <string name="NaturePeriods">Nature of periods ?</string>
+    <string name="Heavy">Heavy</string>
+    <string name="Moderate">Moderate</string>
+    <string name="Light">Light</string>
+    <string name="cyclePattern">What is your menstrual cycle pattern ?</string>
+    <string name="Regular">Regular</string>
+    <string name="Irregular">Irregular</string>
+    <string name="BleedingSpotting">Bleeding or spotting between periods</string>
+    <string name="DoYouHave"> Do you have ?</string>
+    <string name="BloodStool">Blood in your stool </string>
+    <string name="Diarrhea">Diarrhea</string>
+    <string name="Constipation">Constipation</string>
+    <string name="Bloating">Abdominal Bloating</string>
+    <string name="Abuse">Have you ever been victim of physical abuse or sexual abuse ?</string>
+    <string name="one_two">0 - 2</string>
+    <string name="three_four">3 - 5</string>
+    <string name="five_eight">6 - 8</string>
+    <string name="nine_ten">9 - 10</string>
+
+    <!-- Quiz questions -->
+
+    <!-- Endometriosis topic -->
+
+    <string name="endo_qst1">What is endometriosis?</string>
+    <string name="endo_qst1_opt1">A condition where the uterus is enlarged.</string>
+    <string name="endo_qst1_opt2">A condition where the uterine lining sheds more frequently.</string>
+    <string name="endo_qst1_opt3">A condition where the uterine lining grows outside the uterus.</string>
+    <string name="endo_qst1_opt4">A condition where the uterus is tilted backward.</string>
+    <string name="endo_qst1_answer">A condition where the uterine lining grows outside the uterus.</string>
+    <string name="endo_qst1_justif">Endometriosis is characterized by the abnormal growth of tissue resembling the uterine lining outside the uterus. This tissue can attach to various pelvic organs, causing pain, inflammation, and potentially leading to the formation of cysts and adhesions.</string>
+    <string name="endo_qst2">What are some common symptoms of endometriosis?</string>
+    <string name="endo_qst2_opt1">Pelvic pain.</string>
+    <string name="endo_qst2_opt2">Heavy menstrual bleeding.</string>
+    <string name="endo_qst2_opt3">Painful intercourse.</string>
+    <string name="endo_qst2_opt4">All of the above.</string>
+    <string name="endo_qst2_answer">All of the above.</string>
+    <string name="endo_qst2_justif">Individuals with endometriosis often experience a combination of symptoms, including pelvic pain, heavy menstrual bleeding, and painful intercourse. The presence of these symptoms can vary based on the extent and location of the abnormal tissue growth.</string>
+    <string name="endo_qst3">What is the main cause of endometriosis?</string>
+    <string name="endo_qst3_opt1">Hormonal imbalances.</string>
+    <string name="endo_qst3_opt2">Genetic factors.</string>
+    <string name="endo_qst3_opt3">Inflammation.</string>
+    <string name="endo_qst3_opt4">Unknown.</string>
+    <string name="endo_qst3_answer">Unknown.</string>
+    <string name="endo_qst3_justif">Although hormonal imbalances, genetic predisposition, and inflammation are theorized contributors, the exact root cause of endometriosis remains uncertain. Researchers continue to investigate the complex interplay of factors that may trigger its development.</string>
+    <string name="endo_qst4">How is endometriosis diagnosed?</string>
+    <string name="endo_qst4_opt1">Through a physical examination.</string>
+    <string name="endo_qst4_opt2">Through blood tests.</string>
+    <string name="endo_qst4_opt3">Through imaging tests like ultrasound.</string>
+    <string name="endo_qst4_opt4">Through laparoscopy.</string>
+    <string name="endo_qst4_answer">Through laparoscopy.</string>
+    <string name="endo_qst4_justif">Laparoscopy, a minimally invasive surgical procedure, is the preferred method for diagnosing endometriosis. It allows direct visualization of pelvic organs, identification of abnormal tissue growth, and often enables simultaneous treatment during the procedure.</string>
+    <string name="endo_qst5">What is the primary treatment for endometriosis?</string>
+    <string name="endo_qst5_opt1">Pain medication.</string>
+    <string name="endo_qst5_opt2">Hormonal therapy.</string>
+    <string name="endo_qst5_opt3">Surgery.</string>
+    <string name="endo_qst5_opt4">Lifestyle changes.</string>
+    <string name="endo_qst5_answer">Hormonal therapy.</string>
+    <string name="endo_qst5_justif">Hormonal therapy, such as birth control pills or GnRH agonists, is commonly chosen as the primary treatment for endometriosis. These therapies aim to regulate hormone levels and create an environment less conducive to the growth of endometrial tissue outside the uterus.</string>
+    <string name="endo_qst6">Can endometriosis cause infertility?</string>
+    <string name="endo_qst6_opt1">Yes, it can affect fertility.</string>
+    <string name="endo_qst6_opt2">No, it does not impact fertility.</string>
+    <string name="endo_qst6_opt3">It depends on the severity of the condition.</string>
+    <string name="endo_qst6_opt4">Endometriosis only affects menstruation.</string>
+    <string name="endo_qst6_answer">Yes, it can affect fertility.</string>
+    <string name="endo_qst6_justif">Endometriosis can lead to fertility challenges due to its potential to cause structural damage, adhesions, and inflammation in the pelvic region. These factors can hinder the normal function of reproductive organs and decrease the chances of successful conception.</string>
+    <string name="endo_qst7">What are some risk factors for developing endometriosis?</string>
+    <string name="endo_qst7_opt1">Early menarche (onset of menstruation).</string>
+    <string name="endo_qst7_opt2">Late menopause.</string>
+    <string name="endo_qst7_opt3">Family history of endometriosis.</string>
+    <string name="endo_qst7_opt4">All of the above.</string>
+    <string name="endo_qst7_answer">All of the above.</string>
+    <string name="endo_qst7_justif">Early menarche, late menopause, and a family history of endometriosis are established risk factors. These factors influence hormonal exposure and genetic susceptibility, increasing the likelihood of developing the condition.</string>
+    <string name="endo_qst8">Is there a cure for endometriosis?</string>
+    <string name="endo_qst8_opt1">Yes, it can be completely cured.</string>
+    <string name="endo_qst8_opt2">No, there is no known cure.</string>
+    <string name="endo_qst8_opt3">Surgery can provide a permanent cure.</string>
+    <string name="endo_qst8_opt4">Endometriosis resolves on its own over time.</string>
+    <string name="endo_qst8_answer">No, there is no known cure.</string>
+    <string name="endo_qst8_justif">Despite various treatment approaches, a definitive cure for endometriosis is currently unavailable. While symptoms can be managed and quality of life improved, the underlying condition itself persists.</string>
+    <string name="endo_qst9">What is the endometrium?</string>
+    <string name="endo_qst9_opt1">The outer layer of the uterus.</string>
+    <string name="endo_qst9_opt2">The inner lining of the uterus.</string>
+    <string name="endo_qst9_opt3">A structure within the ovaries.</string>
+    <string name="endo_qst9_opt4">The fallopian tubes.</string>
+    <string name="endo_qst9_answer">The inner lining of the uterus.</string>
+    <string name="endo_qst9_justif">The endometrium is the innermost layer of the uterus that thickens and sheds cyclically in response to hormonal changes. This process is central to the menstrual cycle and plays a role in pregnancy.</string>
+    <string name="endo_qst10">Can endometriosis be managed through lifestyle changes?</string>
+    <string name="endo_qst10_opt1">Yes, diet and exercise can help alleviate symptoms.</string>
+    <string name="endo_qst10_opt2">No, lifestyle changes have no impact on endometriosis.</string>
+    <string name="endo_qst10_opt3">Only medication can manage endometriosis.</string>
+    <string name="endo_qst10_opt4">Lifestyle changes worsen endometriosis.</string>
+    <string name="endo_qst10_answer">Yes, diet and exercise can help alleviate symptoms.</string>
+    <string name="endo_qst10_justif">While medical interventions are crucial, adopting a healthy lifestyle including a balanced diet and regular exercise can contribute positively. These practices can potentially reduce inflammation, manage pain, and enhance overall well-being for individuals living with endometriosis.</string>
+
+    <!-- Fertility and contraception -->
+
+    <string name="fc_qst1">What is fertility?</string>
+    <string name="fc_qst1_opt1">The ability to conceive a child.</string>
+    <string name="fc_qst1_opt2">The presence of a regular menstrual cycle.</string>
+    <string name="fc_qst1_opt3">The absence of reproductive health issues.</string>
+    <string name="fc_qst1_opt4">The ability to carry a pregnancy to term.</string>
+    <string name="fc_qst1_answer">The ability to conceive a child.</string>
+    <string name="fc_qst1_justif">Fertility refers to the biological capability of an individual to conceive and bear children. It encompasses the capacity of the reproductive system to facilitate the union of sperm and egg, leading to pregnancy.</string>
+    <string name="fc_qst2">What is the most effective form of contraception?</string>
+    <string name="fc_qst2_opt1">Condoms.</string>
+    <string name="fc_qst2_opt2">Oral contraceptives (the pill).</string>
+    <string name="fc_qst2_opt3">Intrauterine devices (IUDs).</string>
+    <string name="fc_qst2_opt4">Withdrawal method.</string>
+    <string name="fc_qst2_answer">Intrauterine devices (IUDs).</string>
+    <string name="fc_qst2_justif">Intrauterine devices (IUDs) are among the most effective forms of contraception. They have a very low failure rate due to their direct placement within the uterus, preventing fertilization and implantation.</string>
+    <string name="fc_qst3">How do hormonal contraceptives prevent pregnancy?</string>
+    <string name="fc_qst3_opt1">By blocking the fallopian tubes.</string>
+    <string name="fc_qst3_opt2">By thickening the cervical mucus.</string>
+    <string name="fc_qst3_opt3">By preventing ovulation.</string>
+    <string name="fc_qst3_opt4">By reducing sperm motility.</string>
+    <string name="fc_qst3_answer">By preventing ovulation.</string>
+    <string name="fc_qst3_justif">Hormonal contraceptives, such as birth control pills, patches, and injections, work primarily by suppressing ovulation. This prevents the release of an egg from the ovaries, making fertilization impossible.</string>
+    <string name="fc_qst4">What is emergency contraception?</string>
+    <string name="fc_qst4_opt1">A long-term contraceptive method.</string>
+    <string name="fc_qst4_opt2">A form of permanent sterilization.</string>
+    <string name="fc_qst4_opt3">A method used after unprotected sex to prevent pregnancy.</string>
+    <string name="fc_qst4_opt4">A method to increase fertility.</string>
+    <string name="fc_qst4_answer">A method used after unprotected sex to prevent pregnancy.</string>
+    <string name="fc_qst4_justif">Emergency contraception refers to methods used after unprotected sexual intercourse or contraceptive failure to prevent pregnancy. It includes methods like morning-after pills and copper IUD insertion within a specific timeframe.</string>
+    <string name="fc_qst5">What is the failure rate of typical use for most contraceptives?</string>
+    <string name="fc_qst5_opt1">Less than 1% .</string>
+    <string name="fc_qst5_opt2">5-10% .</string>
+    <string name="fc_qst5_opt3">15-20% .</string>
+    <string name="fc_qst5_opt4">More than 20% .</string>
+    <string name="fc_qst5_answer">5-10% .</string>
+    <string name="fc_qst5_justif">The failure rate of most contraceptives with typical use falls within the range of 5-10%. This includes variations due to inconsistent use, incorrect application, or external factors that may reduce their effectiveness.</string>
+    <string name="fc_qst6">What is natural family planning?</string>
+    <string name="fc_qst6_opt1">Using barrier methods of contraception.</string>
+    <string name="fc_qst6_opt2">Tracking menstrual cycles to determine fertility.</string>
+    <string name="fc_qst6_opt3">Sterilization.</string>
+    <string name="fc_qst6_opt4">Using emergency contraception.</string>
+    <string name="fc_qst6_answer">Tracking menstrual cycles to determine fertility.</string>
+    <string name="fc_qst6_justif">Natural family planning involves tracking menstrual cycles and fertility signs to identify the fertile window. Couples can then choose to abstain from intercourse during this period to avoid pregnancy without using artificial contraceptives.</string>
+    <string name="fc_qst7">What is the purpose of sterilization as a contraceptive method?</string>
+    <string name="fc_qst7_opt1">To prevent ovulation.</string>
+    <string name="fc_qst7_opt2">To block the fallopian tubes.</string>
+    <string name="fc_qst7_opt3">To thicken cervical mucus.</string>
+    <string name="fc_qst7_opt4">To reduce sperm motility.</string>
+    <string name="fc_qst7_answer">To block the fallopian tubes.</string>
+    <string name="fc_qst7_justif">Sterilization involves the surgical blocking or sealing of the fallopian tubes (tubal ligation in females) to prevent the passage of eggs and sperm. This permanent method ensures that fertilization cannot occur.</string>
+    <string name="fc_qst8">What is the recommended age to start using contraception?</string>
+    <string name="fc_qst8_opt1">At the onset of menstruation.</string>
+    <string name="fc_qst8_opt2">After the first sexual experience.</string>
+    <string name="fc_qst8_opt3">Before getting married.</string>
+    <string name="fc_qst8_opt4">When planning to have a child.</string>
+    <string name="fc_qst8_answer">At the onset of menstruation.</string>
+    <string name="fc_qst8_justif">The onset of menstruation, known as menarche, signifies the potential for fertility. It is recommended to start using contraception around this time to prevent unintended pregnancies as individuals become capable of reproductive functions.</string>
+    <string name="fc_qst9">Can contraceptives protect against sexually transmitted infections (STIs)?</string>
+    <string name="fc_qst9_opt1">Yes, all contraceptives provide protection against STIs.</string>
+    <string name="fc_qst9_opt2">No, contraceptives do not protect against STIs.</string>
+    <string name="fc_qst9_opt3">Only barrier methods of contraception provide protection against STIs.</string>
+    <string name="fc_qst9_opt4">Contraceptives can sometimes protect against STIs.</string>
+    <string name="fc_qst9_answer">No, contraceptives do not protect against STIs.</string>
+    <string name="fc_qst9_justif">Most contraceptives are designed solely to prevent pregnancy and do not provide protection against sexually transmitted infections (STIs). Barrier methods, like condoms, are the exception, offering dual protection by preventing both pregnancy and STI transmission.</string>
+    <string name="fc_qst10">What is the purpose of a contraceptive implant?</string>
+    <string name="fc_qst10_opt1">To provide long-term contraception.</string>
+    <string name="fc_qst10_opt2">To prevent ovulation.</string>
+    <string name="fc_qst10_opt3">To block the fallopian tubes.</string>
+    <string name="fc_qst10_opt4">To thicken cervical mucus.</string>
+    <string name="fc_qst10_answer">To provide long-term contraception.</string>
+    <string name="fc_qst10_justif">Contraceptive implants are small devices inserted under the skin that release hormones to prevent pregnancy. They offer a highly effective, long-term contraceptive solution without the need for daily administration, providing continuous protection over several years.</string>
+
+    <!-- Intimate Health -->
+
+    <string name="int_qst1">What is intimate health?</string>
+    <string name="int_qst1_opt1">Overall well-being of the reproductive system.</string>
+    <string name="int_qst1_opt2">Physical and emotional well-being in romantic relationships.</string>
+    <string name="int_qst1_opt3">Maintenance of healthy intimate relationships.</string>
+    <string name="int_qst1_opt4">All of the above.</string>
+    <string name="int_qst1_answer">All of the above.</string>
+    <string name="int_qst1_justif">Intimate health encompasses various aspects, including the well-being of the reproductive system, physical and emotional health within romantic relationships, and the maintenance of healthy intimate relationships overall.</string>
+
+    <string name="int_qst2">What are some common intimate health concerns in women?</string>
+    <string name="int_qst2_opt1">Vaginal infections.</string>
+    <string name="int_qst2_opt2">Urinary tract infections.</string>
+    <string name="int_qst2_opt3">Sexually transmitted infections (STIs).</string>
+    <string name="int_qst2_opt4">All of the above.</string>
+    <string name="int_qst2_answer">All of the above.</string>
+    <string name="int_qst2_justif">Common intimate health concerns in women include vaginal infections, urinary tract infections, and sexually transmitted infections. These can impact both physical and emotional well-being.</string>
+
+    <string name="int_qst3">What are some recommended practices for maintaining intimate health?</string>
+    <string name="int_qst3_opt1">Practicing safe sex.</string>
+    <string name="int_qst3_opt2">Maintaining good hygiene.</string>
+    <string name="int_qst3_opt3">Regularly visiting a healthcare provider.</string>
+    <string name="int_qst3_opt4">All of the above.</string>
+    <string name="int_qst3_answer">All of the above.</string>
+    <string name="int_qst3_justif">Maintaining intimate health involves practicing safe sex, maintaining good hygiene practices, and seeking regular healthcare check-ups. These practices contribute to overall well-being.</string>
+
+    <string name="int_qst4">What are some signs of a vaginal infection?</string>
+    <string name="int_qst4_opt1">Abnormal discharge.</string>
+    <string name="int_qst4_opt2">Itching or irritation.</string>
+    <string name="int_qst4_opt3">Foul odor.</string>
+    <string name="int_qst4_opt4">All of the above.</string>
+    <string name="int_qst4_answer">All of the above.</string>
+    <string name="int_qst4_justif">Signs of a vaginal infection can include abnormal discharge, itching or irritation, and a foul odor. These symptoms may indicate an imbalance in vaginal health.</string>
+
+    <string name="int_qst5">What are some ways to prevent urinary tract infections (UTIs)?</string>
+    <string name="int_qst5_opt1">Drink plenty of water.</string>
+    <string name="int_qst5_opt2">Urinate before and after sexual activity.</string>
+    <string name="int_qst5_opt3">Wipe from front to back after using the restroom.</string>
+    <string name="int_qst5_opt4">All of the above.</string>
+    <string name="int_qst5_answer">All of the above.</string>
+    <string name="int_qst5_justif">Preventing UTIs involves staying hydrated, urinating before and after sexual activity, and maintaining proper hygiene practices. These measures can help reduce the risk of infection.</string>
+
+    <string name="int_qst6">Why is it important to communicate with your partner about intimate health?</string>
+    <string name="int_qst6_opt1">To maintain open and honest communication.</string>
+    <string name="int_qst6_opt2">To discuss any concerns or issues.</string>
+    <string name="int_qst6_opt3">To ensure both partners are informed and involved.</string>
+    <string name="int_qst6_opt4">All of the above.</string>
+    <string name="int_qst6_answer">All of the above.</string>
+    <string name="int_qst6_justif">Open communication about intimate health is vital to maintain trust and understanding in a relationship. Discussing concerns and involving both partners ensures a supportive and informed approach to intimate well-being.</string>
+
+    <string name="int_qst7">What are some recommended products for maintaining intimate health?</string>
+    <string name="int_qst7_opt1">Gentle cleansers or washes specifically designed for intimate use.</string>
+    <string name="int_qst7_opt2">Unscented, hypoallergenic products.</string>
+    <string name="int_qst7_opt3">Cotton underwear.</string>
+    <string name="int_qst7_opt4">All of the above.</string>
+    <string name="int_qst7_answer">All of the above.</string>
+    <string name="int_qst7_justif">Recommended products for maintaining intimate health include gentle cleansers or washes designed for intimate use, unscented and hypoallergenic products, as well as breathable cotton underwear that promotes air circulation.</string>
+
+    <string name="int_qst8">What should you do if you experience persistent discomfort or pain during intercourse?</string>
+    <string name="int_qst8_opt1">Seek medical advice from a healthcare provider.</string>
+    <string name="int_qst8_opt2">Communicate with your partner about the issue.</string>
+    <string name="int_qst8_opt3">Experiment with different positions or lubricants.</string>
+    <string name="int_qst8_opt4">All of the above.</string>
+    <string name="int_qst8_answer">All of the above.</string>
+    <string name="int_qst8_justif">Experiencing persistent discomfort or pain during intercourse should prompt seeking medical advice from a healthcare provider. Additionally, open communication with your partner and trying different approaches can contribute to finding solutions to the issue.</string>
+
+    <string name="int_qst9">What are some ways to promote emotional intimacy in a relationship?</string>
+    <string name="int_qst9_opt1">Open and honest communication.</string>
+    <string name="int_qst9_opt2">Active listening.</string>
+    <string name="int_qst9_opt3">Showing empathy and understanding.</string>
+    <string name="int_qst9_opt4">All of the above.</string>
+    <string name="int_qst9_answer">All of the above.</string>
+    <string name="int_qst9_justif">Promoting emotional intimacy involves open and honest communication, active listening to each other\'s feelings, and demonstrating empathy and understanding. These practices strengthen the emotional connection within a relationship.</string>
+
+    <string name="int_qst10">Why is it important to prioritize self-care in intimate health?</string>
+    <string name="int_qst10_opt1">To maintain overall well-being and happiness.</string>
+    <string name="int_qst10_opt2">To enhance self-confidence and body image.</string>
+    <string name="int_qst10_opt3">To reduce stress and promote relaxation.</string>
+    <string name="int_qst10_opt4">All of the above.</string>
+    <string name="int_qst10_answer">All of the above.</string>
+    <string name="int_qst10_justif">Prioritizing self-care in intimate health contributes to overall well-being, enhances self-confidence and positive body image, and helps in reducing stress and promoting relaxation. These factors collectively support a healthier and more fulfilling intimate life.</string>
+
+    <!-- Menstrual Cycle -->
+    <string name="cycle_qst1">What is the menstrual cycle?</string>
+    <string name="cycle_qst1_opt1">The process of shedding the uterine lining.</string>
+    <string name="cycle_qst1_opt2">The release of an unfertilized egg from the ovaries.</string>
+    <string name="cycle_qst1_opt3">The entire reproductive cycle of a woman.</string>
+    <string name="cycle_qst1_opt4">The production of hormones by the endocrine system.</string>
+    <string name="cycle_qst1_answer">The entire reproductive cycle of a woman.</string>
+    <string name="cycle_qst1_justif">The menstrual cycle encompasses various hormonal and physiological changes that occur in a woman\'s body, preparing for potential pregnancy and the shedding of the uterine lining if pregnancy doesn\'t occur.</string>
+
+    <string name="cycle_qst2">What is the average duration of a menstrual cycle?</string>
+    <string name="cycle_qst2_opt1">14 days.</string>
+    <string name="cycle_qst2_opt2">28 days.</string>
+    <string name="cycle_qst2_opt3">35 days.</string>
+    <string name="cycle_qst2_opt4">42 days.</string>
+    <string name="cycle_qst2_answer">28 days.</string>
+    <string name="cycle_qst2_justif">The average menstrual cycle typically lasts around 28 days, although variations in cycle length are common among individuals.</string>
+
+    <string name="cycle_qst3">Which hormone is responsible for stimulating the growth and development of the uterine lining?</string>
+    <string name="cycle_qst3_opt1">Estrogen.</string>
+    <string name="cycle_qst3_opt2">Progesterone.</string>
+    <string name="cycle_qst3_opt3">Luteinizing hormone (LH).</string>
+    <string name="cycle_qst3_opt4">Follicle-stimulating hormone (FSH).</string>
+    <string name="cycle_qst3_answer">Estrogen.</string>
+    <string name="cycle_qst3_justif">Estrogen plays a crucial role in stimulating the growth and development of the uterine lining during the first half of the menstrual cycle.</string>
+
+    <string name="cycle_qst4">When does ovulation typically occur in a menstrual cycle?</string>
+    <string name="cycle_qst4_opt1">At the beginning of the cycle.</string>
+    <string name="cycle_qst4_opt2">In the middle of the cycle.</string>
+    <string name="cycle_qst4_opt3">At the end of the cycle.</string>
+    <string name="cycle_qst4_opt4">Throughout the entire cycle.</string>
+    <string name="cycle_qst4_answer">In the middle of the cycle.</string>
+    <string name="cycle_qst4_justif">Ovulation generally occurs in the middle of the menstrual cycle, around day 14, and marks the release of an egg from the ovary, ready for potential fertilization.</string>
+
+    <string name="cycle_qst5">What is the purpose of the luteal phase of the menstrual cycle?</string>
+    <string name="cycle_qst5_opt1">To prepare the uterus for pregnancy.</string>
+    <string name="cycle_qst5_opt2">To shed the uterine lining.</string>
+    <string name="cycle_qst5_opt3">To release an unfertilized egg.</string>
+    <string name="cycle_qst5_opt4">To produce hormones that regulate the cycle.</string>
+    <string name="cycle_qst5_answer">To prepare the uterus for pregnancy.</string>
+    <string name="cycle_qst5_justif">The luteal phase follows ovulation and involves the development of the uterine lining to create a suitable environment for a potential pregnancy. If fertilization doesn\'t occur, the uterine lining is eventually shed.</string>
+
+    <string name="cycle_qst6">What is amenorrhea?</string>
+    <string name="cycle_qst6_opt1">Excessive menstrual bleeding.</string>
+    <string name="cycle_qst6_opt2">Absence of menstruation.</string>
+    <string name="cycle_qst6_opt3">Painful menstruation.</string>
+    <string name="cycle_qst6_opt4">Irregular menstrual cycles.</string>
+    <string name="cycle_qst6_answer">Absence of menstruation.</string>
+    <string name="cycle_qst6_justif">Amenorrhea refers to the absence of menstrual periods, which can be caused by factors such as pregnancy, certain medical conditions, or changes in hormonal balance.</string>
+
+    <string name="cycle_qst7">What is the role of the corpus luteum in the menstrual cycle?</string>
+    <string name="cycle_qst7_opt1">To produce estrogen.</string>
+    <string name="cycle_qst7_opt2">To produce progesterone.</string>
+    <string name="cycle_qst7_opt3">To release the egg during ovulation.</string>
+    <string name="cycle_qst7_opt4">To regenerate the uterine lining.</string>
+    <string name="cycle_qst7_answer">To produce progesterone.</string>
+    <string name="cycle_qst7_justif">The corpus luteum, formed from the follicle that released the egg during ovulation, plays a key role in producing progesterone, which maintains the uterine lining and supports a potential pregnancy.</string>
+
+    <string name="cycle_qst8">What happens if fertilization and implantation do not occur?</string>
+    <string name="cycle_qst8_opt1">The uterine lining is shed during menstruation.</string>
+    <string name="cycle_qst8_opt2">The menstrual cycle restarts immediately.</string>
+    <string name="cycle_qst8_opt3">The uterus becomes dormant until the next cycle.</string>
+    <string name="cycle_qst8_opt4">The ovaries stop producing hormones.</string>
+    <string name="cycle_qst8_answer">The uterine lining is shed during menstruation.</string>
+    <string name="cycle_qst8_justif">If fertilization and implantation do not occur, the corpus luteum regresses, causing a drop in progesterone levels. This leads to the shedding of the uterine lining, resulting in menstruation.</string>
+
+    <string name="cycle_qst9">What are some common symptoms experienced during the menstrual cycle?</string>
+    <string name="cycle_qst9_opt1">Breast tenderness.</string>
+    <string name="cycle_qst9_opt2">Mood swings.</string>
+    <string name="cycle_qst9_opt3">Cramps.</string>
+    <string name="cycle_qst9_opt4">All of the above.</string>
+    <string name="cycle_qst9_answer">All of the above.</string>
+    <string name="cycle_qst9_justif">Many individuals experience various symptoms during their menstrual cycle, including breast tenderness, mood swings, and cramps, due to hormonal fluctuations and changes in the uterine lining.</string>
+
+    <string name="cycle_qst10">What is menorrhagia?</string>
+    <string name="cycle_qst10_opt1">Absence of menstruation.</string>
+    <string name="cycle_qst10_opt2">Excessive menstrual bleeding.</string>
+    <string name="cycle_qst10_opt3">Painful menstruation.</string>
+    <string name="cycle_qst10_opt4">Irregular menstrual cycles.</string>
+    <string name="cycle_qst10_answer">Excessive menstrual bleeding.</string>
+    <string name="cycle_qst10_justif">Menorrhagia refers to abnormally heavy or prolonged menstrual bleeding that can impact an individual\'s quality of life and may be caused by factors such as hormonal imbalances or certain medical conditions.</string>
+
+
+    <string name="background">background</string>
+    <string name="go_back">go back</string>
+    <string name="logo">Logo</string>
+    <string name="paincare">PainCare</string>
+    <string name="image">Image</string>
+    <string name="description">Description</string>
+    <string name="content">Content</string>
+    <string name="read_full_articles">Read Full Articles</string>
+    <string name="exit">exit</string>
+    <string name="question_goes_here">Question goes here</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="birthday_date">Birthday Date</string>
+    <string name="notification_icon">Notification Icon</string>
+    <string name="download">Download</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="topic_name">Selected Topic Name</string>
+    <string name="option">Option</string>
+    <string name="_1_10">1/10</string>
+    <string name="question_will_appear_here">Question will appear here...</string>
+    <string name="correct_answers">Correct Answers : 0</string>
+    <string name="wrong_answers">Wrong Answers : 0</string>
+    <string name="start_new_quiz">Start New Quiz</string>
+    <string name="login_to">Login to</string>
+    <string name="login_with_email">Login with Email</string>
+    <string name="login_to_your_account">LOGIN TO YOUR ACCOUNT</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="listofthings">ListOfThings</string>
+    <string name="verify_your_email">Verify Your Email</string>
+    <string name="please_check_your_email_for_a_verification_link_to_verify_your_account">Please check your email for a verification link to verify your account.</string>
+    <string name="resend_verification_email">Resend verification email</string>
+    <string name="return_to_login_page">Return to Login page</string>
+    <string name="endometriosis_awareness">Endometriosis awareness</string>
+    <string name="no_events">No events</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="enter_your_email">Enter your Email...</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="lt_back_to_login"><![CDATA[<-- Back to Login]]></string>
+    <string name="hi_user_name">Hi User Name</string>
+    <string name="level">Level</string>
+    <string name="quiz">Quiz</string>
+    <string name="enter_your_password">Enter Your Password...</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="enter_your_e_mail">Enter Your E-mail...</string>
+    <string name="or">Or</string>
+    <string name="notification_settings">Notification settings</string>
+    <string name="take_diagnostic_test_once_a_month">Take diagnostic test (once a month)</string>
+    <string name="community_notifications">Community notifications</string>
+    <string name="_12_oct">12 OCT</string>
+    <string name="enter_your_name">Enter your Name...</string>
+    <string name="confirm_password">Confirm Password...</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log in</string>
+    <string name="sign_up_for">Sign up for</string>
+    <string name="update_blog">Update Blog</string>
+    <string name="update">Update</string>
+    <string name="add_your_birthday">Add your birthday ?</string>
+    <string name="user_name">User Name</string>
+
+
+</resources>

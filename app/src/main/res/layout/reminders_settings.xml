@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Toolbar -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/background"
+        android:elevation="4dp"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Dark">
+
+        <!-- Left Icon -->
+        <ImageView
+            android:id="@+id/leftIcon"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:padding="8dp"
+            android:src="@drawable/ic_back_black"
+            android:importantForAccessibility="no" />
+
+        <TextView
+            android:id="@+id/Title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/alarmslist"
+            android:textColor="#393E46"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_toEndOf="@id/leftIcon"
+            android:layout_toStartOf="@+id/notificationIcon"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <!-- ScrollView -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar">
+
+        <LinearLayout
+            android:id="@+id/FirstSection"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="16dp">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/remindersRecyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:listitem="@layout/item_reminder" />
+
+        </LinearLayout>
+
+    </ScrollView>
+    <!-- FrameLayout to overlay the circular button -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <!-- Circular button with "+" icon -->
+        <ImageButton
+            android:id="@+id/addReminderButton"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="end|bottom"
+            android:layout_margin="20dp"
+            android:background="@drawable/add_reminder_button"
+            android:src="@drawable/add"
+            android:contentDescription="@string/add_reminder" />
+    </FrameLayout>
+
+</RelativeLayout>

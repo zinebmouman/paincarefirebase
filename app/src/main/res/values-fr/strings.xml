@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id">1063873527410-4pte50gh9jnn116dirrl6qm3q1ffc3o0.apps.googleusercontent.com</string>
+    <string name="app_name">myApplication</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="next">Suivant</string>
+    <string name="cancel">Annuler</string>
+    <string name="submit">Confirmer</string>
+    <string name="save">Enregistrer</string>
+    <string name="delete">Supprimer</string>
+
+    <string name="update_event_title_hint">Mettre à jour le titre de l\'événement</string>
+    <string name="update_event_note_hint">Mettre à jour la note de l\'événement</string>
+    <string name="title_prefix">Titre : </string>
+    <string name="note_prefix">Note : </string>
+    <string name="update_button_label">Mettre à jour</string>
+
+    <string name="delete_confirmation_title">Confirmer la suppression</string>
+    <string name="delete_confirmation_message">Voulez-vous supprimer cet événement ?</string>
+    <string name="event_deleted_successfully">Événement supprimé avec succès</string>
+    <string name="error_deleting_event">Erreur lors de la suppression de l\'événement</string>
+
+    <string name="score_label">Score :</string>
+    <string name="report_label">Rapport</string>
+    <string name="open_report_button_label">Ouvrir le rapport</string>
+
+    <string name="diagnostic_label">Test de diagnostique</string>
+    <string name="weight_data">Entrez votre poids en kg</string>
+    <string name="height_data">Entrez votre taille en cm</string>
+    <string name="RiskLevel">Niveau de risque : </string>
+    <string name="UserAnswer">La reponse :</string>
+    <string name="name_label">Nom :</string>
+    <string name="email_label">Email :</string>
+    <string name="birthday_label">Date de naissance :</string>
+    <string name="pain_average_label">Moyenne de douleur :</string>
+    <string name="diagnostic_report_title">Rapport de Test Diagnostique</string>
+
+    <string name="Low">Faible</string>
+    <string name="Medium">Moyen</string>
+    <string name="High">Élevé</string>
+    <string name="No_Risk">Vas-y</string>
+
+    <string name="home">Accueil</string>
+    <string name="track">Suivi</string>
+    <string name="community">communauté</string>
+
+    <string name="Publish">Publier</string>
+    <string name="Publish_blog">Publier un Blog</string>
+    <string name="select_img">Selectionner une Image!!</string>
+    <string name="Write_comment">Ecrire un commentaire</string>
+    <string name="Add">Ajouter</string>
+    <string name="Search_blogs">Chercher un blog</string>
+    <string name="share_btn">Partager</string>
+    <string name="shared">Partagé</string>
+    <string name="confirm_delete_comment">Voulez-vous supprimer ce commentaire ?</string>
+
+    <string name="pain_evolution">Évolution de la douleur</string>
+    <string name="pain_average">Moyenne des douleurs</string>
+    <string name="pain_score">score des douleurs</string>
+    <string name="pain_locations">Localisation des douleurs</string>
+    <string name="symptoms">Symptômes</string>
+    <string name="pain_worse_title">Ce qui aggrave la douleur</string>
+    <string name="feelings">Sentiments</string>
+    <string name="medications">Médicaments</string>
+
+    <string name="choose_topic">Choisir un sujet</string>
+    <string name="endometriosis_label">Endométriose</string>
+    <string name="fertility_label">Fertilité</string>
+    <string name="intimate_health_label">Santé intime</string>
+    <string name="menstrual_cycle">Cycle menstruel</string>
+    <string name="start_quiz">Commencer le quiz</string>
+    <string name="quiz_congratulation">Vous avez réussi le quiz avec succès</string>
+
+    <string name="diagnostic_txt">Souffrez-vous de règles douloureuses ? \nRépondez à ce questionnaire pour évaluer votre risque d\'endométriose.</string>
+    <string name="go">ALLER</string>
+    <string name="diag_result">Resultat du test</string>
+
+    <string name="add_reminder">Ajouter un rappel</string>
+    <string name="title...">Titre&#8230;</string>
+    <string name="monday">Lun</string>
+    <string name="tuesday">Mar</string>
+    <string name="wednesday">Mer</string>
+    <string name="thursday">Jeu</string>
+    <string name="friday">Ven</string>
+    <string name="saturday">Sam</string>
+    <string name="sunday">Dim</string>
+    <string name="Repeat">Répéter : </string>
+
+    <string name="faq_label">Questions fréquemment posées</string>
+    <string name="endo_faq_title">Endométriose FAQ</string>
+
+    <string name="last_score">Dernier score</string>
+    <string name="home_score_desc">Mettez à jour votre score\n régulièrement</string>
+    <string name="home_title">Que recherchez-vous :</string>
+    <string name="diagnostic_test">Test de diagnostic</string>
+    <string name="diagnostic_test_desc">Découvrez votre potentiel d\'endométriose.</string>
+    <string name="endo_informations">Informations sur l\'endométriose</string>
+    <string name="endo_informations_desc">Restez informé sur l\'endométriose.</string>
+    <string name="pain_evolution_desc">Explorez votre parcours de douleur.</string>
+    <string name="quiz_desc">Testez vos connaissances sur l\'endométriose.</string>
+
+    <string name="today">Aujourd\'hui</string>
+    <string name="pain_level">Niveau de douleur</string>
+
+    <string name="alarmslist">Liste des alarmes</string>
+    <string name="Profile">Profil</string>
+    <string name="alarm">Alarm</string>
+    <string name="edit_profile">Modifier le profil</string>
+    <string name="change_language">Changer de langue</string>
+    <string name="notif_settings">Paramètres de notification</string>
+    <string name="share_app">Partager l\'application</string>
+    <string name="logout">Déconnecter</string>
+    <string name="deleteAccount">Supprimer mon compte</string>
+    <string name="Calendar">Calendrier</string>
+    <string name="AboutUs">A propos de nous</string>
+
+    <string name="choose_language">Choisissez une langue</string>
+
+    <string name="about_us_text">La solution m-Health PainCare a été développée dans le but de fournir des ressources complètes et une assistance aux femmes qui luttent contre l\'endométriose. Elle vise à aider les individus en leur donnant accès à un suivi personnalisé des symptômes, à des documents éducatifs et à une communauté de soutien. L\'objectif principal est de fournir aux femmes atteintes d\'endométriose un outil convivial et accessible pour la gestion de la douleur, les informations et le soutien émotionnel afin d\'améliorer leur bien-être global et leur qualité de vie. Cela inclut les femmes qui soupçonnent d\'avoir la condition. Avec PainCare, les femmes peuvent prendre le contrôle de leur condition et avancer vers une vie plus heureuse et plus saine.</string>
+    <string name="References">Références</string>
+    <string name="link1_label">advancedgynaecologymelbourne</string>
+    <string name="link2_label">mayoclinic</string>
+    <string name="link3_label">clevelandclinic</string>
+    <string name="link1_url">https://www.advancedgynaecologymelbourne.com.au/endometriosis/symptoms</string>
+    <string name="link2_url">https://www.mayoclinic.org/diseases-conditions/endometriosis/symptoms-causes/syc-20354656#:~:text=However%2C%20there%20are%20some%20factors,having%20a%20low%20body%20mass</string>
+    <string name="link3_url">https://my.clevelandclinic.org/health/diseases/10857-endometriosis</string>
+
+    <string name="AddEvent">Ajouter</string>
+
+    <string name="delete_account_title">Supprimer le Compte</string>
+    <string name="delete_account_message">Êtes-vous sûre de vouloir supprimer votre compte ?</string>
+    <string name="delete_data_radio_label">Supprimer les Données</string>
+    <string name="keep_data_radio_label">Conserver les Données</string>
+
+    <string name="welcome_label">Commencez avec PainCare</string>
+
+    <string name="Endo_Symptoms">Quels sont les symptômes de l\'endométriose ?</string>
+    <string name="Endometriosis">Qu\'est-ce que l\'endométriose ?</string>
+    <string name="Endo_riskFactors">Quels facteurs peuvent augmenter mes chances de souffrir d\'endométriose ?</string>
+    <string name="Endo_traitement">Comment traite-t-on l\'endométriose ?</string>
+    <string name="Endo_reduces">Comment puis-je réduire mes chances de contracter l\'endométriose ?</string>
+    <string name="Endo_health_prob">Comment traite-t-on l\'endométriose ?</string>
+    <string name="Endo_importance">Pourquoi est-il important de savoir si j\'ai l\'endométriose ?</string>
+
+    <string name="Endo_Symptoms_answer">Le symptôme le plus courant de l\'endométriose est la douleur pelvienne. La douleur survient souvent pendant les menstruations, pendant l\'ovulation et/ou lors des rapports sexuels. Cependant, une femme atteinte d\'endométriose peut également ressentir une douleur à d\'autres moments de son cycle menstruel. Un autre symptôme est l\'infertilité. Certaines femmes atteintes d\'endométriose éprouvent également une grande fatigue.</string>
+    <string name="Endometriosis_answer">L\'endométriose est une affection dans laquelle des tissus similaires à la muqueuse de l\'utérus sont également présents ailleurs dans le corps, principalement dans la cavité abdominale.</string>
+    <string name="Endo_riskFactors_answer">Vous avez plus de chances de développer une endométriose si vous avez : \n• Jamais eu d\'enfants. \n• Des périodes menstruelles qui durent plus de sept jours. \n• Des cycles menstruels courts (27 jours ou moins). \n• Un membre de la famille (mère, tante, sœur) atteint d\'endométriose. \n• Un problème de santé qui empêche l\'écoulement normal du flux menstruel. \n• Des dommages aux cellules du pelvis causés par une infection.</string>
+    <string name="Endo_traitement_answer">Il n\'existe pas de cure pour l\'endométriose, mais il existe de nombreux traitements pour la douleur et l\'infertilité qu\'elle cause. Parlez à votre médecin de l\'option qui vous convient le mieux. Le traitement que vous choisissez dépendra de vos symptômes, de votre âge et de vos projets de grossesse.\nMédicaments contre la douleur - Pour certaines femmes présentant des symptômes légers, les médecins peuvent suggérer de prendre des médicaments en vente libre contre la douleur.\nTraitement hormonal - Lorsque les médicaments contre la douleur ne suffisent pas, les médecins recommandent souvent des médicaments hormonaux pour traiter l\'endométriose. Seules les femmes qui ne souhaitent pas devenir enceintes peuvent utiliser ces médicaments.\nChirurgie - La chirurgie est généralement la meilleure option pour les femmes atteintes d\'endométriose sévère avec de nombreuses excroissances, beaucoup de douleur ou des problèmes de fertilité.</string>
+    <string name="Endo_reducess_answer">Maintenez des niveaux d\'oestrogène plus bas dans votre corps. Essayez : \n• Faire de l\'exercice régulièrement. \n• Maintenir un faible pourcentage de graisse corporelle. \n• Éviter de consommer de grandes quantités d\'alcool et de boissons contenant de la caféine.</string>
+    <string name="Endo_health_prob_answer">Les excroissances d\'endométriose sont bénignes (non cancéreuses), mais elles peuvent quand même causer de nombreux problèmes. Les tissus et le sang qui sont rejetés dans le corps peuvent provoquer une inflammation, des adhérences et des douleurs. Lorsque le tissu endométrial se développe, il peut recouvrir ou se développer dans les ovaires et bloquer les trompes de Fallope. Le sang piégé dans les ovaires peut former des kystes et causer des inflammations et des cicatrices (adhérences) qui lient parfois les organes entre eux. Ces cicatrices peuvent causer des douleurs pelviennes et rendre difficile pour les femmes de tomber enceintes. Les excroissances peuvent également causer des problèmes dans les intestins et la vessie.</string>
+    <string name="Endo_importance_answer">Les études montrent que les femmes atteintes d\'endométriose manquent l\'école, le travail et des événements sociaux. Ce problème de santé peut tendre les relations avec votre partenaire, vos amis, vos enfants et vos collègues. De plus, l\'endométriose peut rendre difficile pour une femme de tomber enceinte. Lorsque l\'endométriose cause des problèmes de fertilité, la chirurgie peut augmenter les chances de tomber enceinte.</string>
+
+    <string name="title_activity_drawer_actvity">DrawerActivity</string>
+    <string name="nav_header_title">Blog App</string>
+    <string name="nav_header_subtitle">youtube.com/artorean</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Publicar Blog</string>
+    <string name="menu_slideshow">Perfil</string>
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+
+    <string name="pain_level_non">Aucune douleur</string>
+    <string name="pain_level_mild">Légère</string>
+    <string name="pain_level_moderate">Modérée</string>
+    <string name="pain_level_severe">Sévère</string>
+    <string name="pain_level_very_severe">Très sévère</string>
+    <string name="pain_level_worst">Pire douleur</string>
+
+    <!-- Pain Location Options -->
+    <string name="abdomen">Abdomen</string>
+    <string name="back">Dos</string>
+    <string name="chest">Poitrine</string>
+    <string name="head">Tête</string>
+    <string name="neck">Cou</string>
+    <string name="hips">Hanches</string>
+
+    <!-- Symptoms Options -->
+    <string name="cramps">Crampes</string>
+    <string name="tender_breasts">Seins sensibles</string>
+    <string name="headache">Mal de tête</string>
+    <string name="acne">Acné</string>
+    <string name="fatigue">Fatigue</string>
+    <string name="bloating">Ballonnements</string>
+    <string name="craving">Envie de manger</string>
+
+    <!-- Pain Worse Options -->
+    <string name="lack_of_sleep">Manque de sommeil</string>
+    <string name="sitting">Assis</string>
+    <string name="standing">Debout</string>
+    <string name="stress">Stress</string>
+    <string name="walking">Marche</string>
+    <string name="exercise">Exercice</string>
+    <string name="urination">Miction</string>
+
+    <!-- Feeling Options -->
+    <string name="anxious">Anxieux</string>
+    <string name="depressed">Déprimé</string>
+    <string name="dizzy">Étourdi</string>
+    <string name="vomiting">Vomissements</string>
+    <string name="diarrhea">Diarrhée</string>
+
+    <!-- Meds Options -->
+    <string name="nothing">Rien</string>
+
+    <!-- Diagnostic test questions -->
+    <string name="periodStart">Quand est-ce que vous commencez vos règles ?</string>
+    <string name="periodStartOpt1">Avant l\'age de 11 ans</string>
+    <string name="periodStartOpt2">À partir de 11 ans</string>
+    <string name="cycleLength">Quelle est la durée moyenne de votre cycle menstruel ?</string>
+    <string name="cycleLengthOpt1">Moins de 27 jours</string>
+    <string name="cycleLengthOpt2">Plus de 27 jours</string>
+    <string name="NotSure">Je suis pas sur</string>
+    <string name="famillyHistory">Avez-vous des antécédents familiaux d\'endométriose ?</string>
+    <string name="giveBirth">Avez-vous déjà accouché ?</string>
+    <string name="Yes">Oui</string>
+    <string name="No">Non</string>
+    <string name="pregnantTrouble">Avez-vous des difficultés à tomber enceinte ?</string>
+    <string name="BMIqst">Indice de masse corporelle (IMC) : calculez votre IMC</string>
+    <string name="painIntensity">Quelle est l\'intensité de vos douleurs abdominales/pelviennes ?</string>
+    <string name="whenPain">Quand ressentez-vous des douleurs abdominales ou pelviennes ?</string>
+    <string name="RelatedPeriod">lier aux périodes menstruelles</string>
+    <string name="RelatedOvulation">lier aux ovulations</string>
+    <string name="Unrelated">Sans lien avec la période menstruelle ou l\'ovulation</string>
+    <string name="intercoursePain">Quelle est la sévérité des douleurs pendant les rapports sexuels ?</string>
+    <string name="painWorse">Qu\'est-ce qui aggrave vos douleurs ?</string>
+    <string name="Orgasm">L\'orgasme</string>
+    <string name="BowelMovement">Les mouvements intestinaux</string>
+    <string name="FullBladder">La vessie pleine</string>
+    <string name="Urination">La miction (uriner)</string>
+    <string name="NotRelated">Sans lien avec quoi que ce soit</string>
+    <string name="DurationPeriod">Durée de la période menstruelle ?</string>
+    <string name="Less7">1 à 7 jours</string>
+    <string name="More7">Plus de 7 jours</string>
+    <string name="NaturePeriods">Nature des périodes menstruelles ?</string>
+    <string name="Heavy">Abondantes</string>
+    <string name="Moderate">Modérées</string>
+    <string name="Light">Légères</string>
+    <string name="cyclePattern">Quel est le schéma de votre cycle menstruel ?</string>
+    <string name="Regular">Régulier</string>
+    <string name="Irregular">Irrégulier</string>
+    <string name="BleedingSpotting">Saignement ou spotting entre les périodes</string>
+    <string name="DoYouHave">Avez-vous ?</string>
+    <string name="BloodStool">Du sang dans vos selles</string>
+    <string name="Diarrhea">La diarrhée</string>
+    <string name="Constipation">La constipation</string>
+    <string name="Bloating">Des ballonnements abdominaux</string>
+    <string name="Abuse">Avez-vous déjà été victime d\'abus physique ou sexuel ?</string>
+    <string name="one_two">0 – 2</string>
+    <string name="three_four">3 – 5</string>
+    <string name="five_eight">6 – 8</string>
+    <string name="nine_ten">9 – 10</string>
+
+    <!-- Quiz questions -->
+
+    <!-- Endometriosis topic -->
+
+    <string name="endo_qst1">Qu\'est-ce que l\'endométriose ?</string>
+    <string name="endo_qst1_opt1">Une condition où l\'utérus est agrandi.</string>
+    <string name="endo_qst1_opt2">Une condition où la muqueuse utérine se détache plus fréquemment.</string>
+    <string name="endo_qst1_opt3">Une condition où la muqueuse utérine se développe en dehors de l\'utérus.</string>
+    <string name="endo_qst1_opt4">Une condition où l\'utérus est incliné vers l\'arrière.</string>
+    <string name="endo_qst1_answer">Une condition où la muqueuse utérine se développe en dehors de l\'utérus.</string>
+    <string name="endo_qst1_justif">L\'endométriose est caractérisée par la croissance anormale d\'un tissu ressemblant à la muqueuse utérine en dehors de l\'utérus. Ce tissu peut se fixer sur divers organes pelviens, provoquant douleur, inflammation et potentiellement la formation de kystes et d\'adhérences.</string>
+    <string name="endo_qst2">Quels sont certains symptômes courants de l\'endométriose ?</string>
+    <string name="endo_qst2_opt1">Douleur pelvienne.</string>
+    <string name="endo_qst2_opt2">Saignements menstruels abondants.</string>
+    <string name="endo_qst2_opt3">Rapports sexuels douloureux.</string>
+    <string name="endo_qst2_opt4">Tous les éléments ci-dessus.</string>
+    <string name="endo_qst2_answer">Tous les éléments ci-dessus.</string>
+    <string name="endo_qst2_justif">Les personnes atteintes d\'endométriose éprouvent souvent une combinaison de symptômes, notamment des douleurs pelviennes, des saignements menstruels abondants et des rapports sexuels douloureux. La présence de ces symptômes peut varier en fonction de l\'étendue et de l\'emplacement de la croissance anormale du tissu.</string>
+    <string name="endo_qst3">Quelle est la principale cause de l\'endométriose ?</string>
+    <string name="endo_qst3_opt1">Déséquilibres hormonaux.</string>
+    <string name="endo_qst3_opt2">Facteurs génétiques.</string>
+    <string name="endo_qst3_opt3">Inflammation.</string>
+    <string name="endo_qst3_opt4">Inconnu.</string>
+    <string name="endo_qst3_answer">Inconnu.</string>
+    <string name="endo_qst3_justif">Bien que des déséquilibres hormonaux, une prédisposition génétique et une inflammation soient des facteurs théorisés, la cause exacte de l\'endométriose reste incertaine. Les chercheurs continuent d\'étudier l\'interaction complexe de facteurs pouvant déclencher son développement.</string>
+    <string name="endo_qst4">Comment l\'endométriose est-elle diagnostiquée ?</string>
+    <string name="endo_qst4_opt1">Par un examen physique.</string>
+    <string name="endo_qst4_opt2">Par des analyses sanguines.</string>
+    <string name="endo_qst4_opt3">Par des examens d\'imagerie comme l\'échographie.</string>
+    <string name="endo_qst4_opt4">Par laparoscopie.</string>
+    <string name="endo_qst4_answer">Par laparoscopie.</string>
+    <string name="endo_qst4_justif">La laparoscopie, une procédure chirurgicale mini-invasive, est la méthode privilégiée pour diagnostiquer l\'endométriose. Elle permet une visualisation directe des organes pelviens, l\'identification de la croissance anormale du tissu et permet souvent un traitement simultané pendant la procédure.</string>
+    <string name="endo_qst5">Quel est le traitement principal de l\'endométriose ?</string>
+    <string name="endo_qst5_opt1">Médicaments contre la douleur.</string>
+    <string name="endo_qst5_opt2">Thérapie hormonale.</string>
+    <string name="endo_qst5_opt3">Chirurgie.</string>
+    <string name="endo_qst5_opt4">Changements de mode de vie.</string>
+    <string name="endo_qst5_answer">Thérapie hormonale.</string>
+    <string name="endo_qst5_justif">La thérapie hormonale, telle que les pilules contraceptives ou les agonistes de la GnRH, est couramment choisie comme traitement principal de l\'endométriose. Ces thérapies visent à réguler les niveaux hormonaux et à créer un environnement moins propice à la croissance du tissu endométrial en dehors de l\'utérus.</string>
+    <string name="endo_qst6">L\'endométriose peut-elle causer l\'infertilité ?</string>
+    <string name="endo_qst6_opt1">Oui, elle peut affecter la fertilité.</string>
+    <string name="endo_qst6_opt2">Non, elle n\'a pas d\'impact sur la fertilité.</string>
+    <string name="endo_qst6_opt3">Cela dépend de la gravité de la condition.</string>
+    <string name="endo_qst6_opt4">L\'endométriose affecte uniquement les menstruations.</string>
+    <string name="endo_qst6_answer">Oui, elle peut affecter la fertilité.</string>
+    <string name="endo_qst6_justif">L\'endométriose peut entraîner des problèmes de fertilité en raison de sa capacité potentielle à causer des dommages structurels, des adhérences et de l\'inflammation dans la région pelvienne. Ces facteurs peuvent entraver le fonctionnement normal des organes reproducteurs et réduire les chances de conception réussie.</string>
+    <string name="endo_qst7">Quels sont certains facteurs de risque pour le développement de l\'endométriose ?</string>
+    <string name="endo_qst7_opt1">Menarche précoce (début des règles).</string>
+    <string name="endo_qst7_opt2">Ménopause tardive.</string>
+    <string name="endo_qst7_opt3">Antécédents familiaux d\'endométriose.</string>
+    <string name="endo_qst7_opt4">Tous les éléments ci-dessus.</string>
+    <string name="endo_qst7_answer">Tous les éléments ci-dessus.</string>
+    <string name="endo_qst7_justif">La menarche précoce, la ménopause tardive et les antécédents familiaux d\'endométriose sont des facteurs de risque établis. Ces facteurs influencent l\'exposition hormonale et la susceptibilité génétique, augmentant ainsi la probabilité de développer la condition.</string>
+    <string name="endo_qst8">Existe-t-il un remède pour l\'endométriose ?</string>
+    <string name="endo_qst8_opt1">Oui, elle peut être complètement guérie.</string>
+    <string name="endo_qst8_opt2">Non, il n\'y a pas de remède connu.</string>
+    <string name="endo_qst8_opt3">La chirurgie peut fournir une guérison permanente.</string>
+    <string name="endo_qst8_opt4">L\'endométriose se résout d\'elle-même avec le temps.</string>
+    <string name="endo_qst8_answer">Non, il n\'y a pas de remède connu.</string>
+    <string name="endo_qst8_justif">Malgré diverses approches de traitement, un remède définitif pour l\'endométriose n\'est actuellement pas disponible. Bien que les symptômes puissent être gérés et la qualité de vie améliorée, la condition sous-jacente persiste.</string>
+    <string name="endo_qst9">Qu\'est-ce que l\'endomètre ?</string>
+    <string name="endo_qst9_opt1">La couche externe de l\'utérus.</string>
+    <string name="endo_qst9_opt2">La muqueuse interne de l\'utérus.</string>
+    <string name="endo_qst9_opt3">Une structure dans les ovaires.</string>
+    <string name="endo_qst9_opt4">Les trompes de Fallope.</string>
+    <string name="endo_qst9_answer">La muqueuse interne de l\'utérus.</string>
+    <string name="endo_qst9_justif">L\'endomètre est la couche la plus interne de l\'utérus qui s\'épaissit et se détache cycliquement en réponse aux changements hormonaux. Ce processus est essentiel au cycle menstruel et joue un rôle dans la grossesse.</string>
+    <string name="endo_qst10">L\'endométriose peut-elle être gérée grâce à des changements de mode de vie ?</string>
+    <string name="endo_qst10_opt1">Oui, un régime alimentaire et l\'exercice peuvent aider à soulager les symptômes.</string>
+    <string name="endo_qst10_opt2">Non, les changements de mode de vie n\'ont aucun impact sur l\'endométriose.</string>
+    <string name="endo_qst10_opt3">Seuls les médicaments peuvent gérer l\'endométriose.</string>
+    <string name="endo_qst10_opt4">Les changements de mode de vie aggravent l\'endométriose.</string>
+    <string name="endo_qst10_answer">Oui, un régime alimentaire et l\'exercice peuvent aider à soulager les symptômes.</string>
+    <string name="endo_qst10_justif">Bien que les interventions médicales soient essentielles, adopter un mode de vie sain comprenant un régime équilibré et de l\'exercice régulier peut contribuer positivement. Ces pratiques peuvent potentiellement réduire l\'inflammation, gérer la douleur et améliorer le bien-être général des personnes vivant avec l\'endométriose.</string>
+
+    <!-- Fertility and contraception -->
+
+    <string name="fc_qst1">Qu\'est-ce que la fertilité ?</string>
+    <string name="fc_qst1_opt1">La capacité de concevoir un enfant.</string>
+    <string name="fc_qst1_opt2">La présence d\'un cycle menstruel régulier.</string>
+    <string name="fc_qst1_opt3">L\'absence de problèmes de santé reproductive.</string>
+    <string name="fc_qst1_opt4">La capacité de mener une grossesse à terme.</string>
+    <string name="fc_qst1_answer">La capacité de concevoir un enfant.</string>
+    <string name="fc_qst1_justif">La fertilité fait référence à la capacité biologique d\'un individu à concevoir et à porter des enfants. Elle englobe la capacité du système reproducteur à faciliter l\'union du sperme et de l\'ovule, conduisant à une grossesse.</string>
+    <string name="fc_qst2">Quelle est la forme la plus efficace de contraception ?</string>
+    <string name="fc_qst2_opt1">Les préservatifs.</string>
+    <string name="fc_qst2_opt2">Les contraceptifs oraux (la pilule).</string>
+    <string name="fc_qst2_opt3">Les dispositifs intra-utérins (DIU).</string>
+    <string name="fc_qst2_opt4">La méthode du retrait.</string>
+    <string name="fc_qst2_answer">Les dispositifs intra-utérins (DIU).</string>
+    <string name="fc_qst2_justif">Les dispositifs intra-utérins (DIU) font partie des formes les plus efficaces de contraception. Ils ont un taux d\'échec très faible en raison de leur placement direct dans l\'utérus, empêchant la fécondation et l\'implantation.</string>
+    <string name="fc_qst3">Comment les contraceptifs hormonaux empêchent-ils la grossesse ?</string>
+    <string name="fc_qst3_opt1">En bloquant les trompes de Fallope.</string>
+    <string name="fc_qst3_opt2">En épaississant le mucus cervical.</string>
+    <string name="fc_qst3_opt3">En empêchant l\'ovulation.</string>
+    <string name="fc_qst3_opt4">En réduisant la mobilité des spermatozoïdes.</string>
+    <string name="fc_qst3_answer">En empêchant l\'ovulation.</string>
+    <string name="fc_qst3_justif">Les contraceptifs hormonaux, tels que les pilules contraceptives, les patchs et les injections, agissent principalement en supprimant l\'ovulation. Cela empêche la libération d\'un ovule par les ovaires, rendant la fécondation impossible.</string>
+    <string name="fc_qst4">Qu\'est-ce que la contraception d\'urgence ?</string>
+    <string name="fc_qst4_opt1">Une méthode contraceptive à long terme.</string>
+    <string name="fc_qst4_opt2">Une forme de stérilisation permanente.</string>
+    <string name="fc_qst4_opt3">Une méthode post-rapport pour prévenir la grossesse.</string>
+    <string name="fc_qst4_opt4">Une méthode pour augmenter la fertilité.</string>
+    <string name="fc_qst4_answer">Une méthode post-rapport pour prévenir la grossesse.</string>
+    <string name="fc_qst4_justif">La contraception d\'urgence désigne les méthodes utilisées après un rapport sexuel non protégé ou en cas d\'échec contraceptif pour éviter une grossesse. Cela inclut des méthodes comme la prise de pilules du lendemain et l\'insertion d\'un DIU en cuivre dans un délai spécifique.</string>
+    <string name="fc_qst5">Quel est le taux d\'échec en utilisation typique pour la plupart des contraceptifs ?</string>
+    <string name="fc_qst5_opt1">Moins de 1% .</string>
+    <string name="fc_qst5_opt2">5–10% .</string>
+    <string name="fc_qst5_opt3">15–20% .</string>
+    <string name="fc_qst5_opt4">Plus de 20% .</string>
+    <string name="fc_qst5_answer">5–10% .</string>
+    <string name="fc_qst5_justif">Le taux d\'échec en utilisation typique pour la plupart des contraceptifs se situe dans la fourchette de 5 à 10%. Cela inclut les variations dues à une utilisation inconstante, une application incorrecte ou des facteurs externes qui peuvent réduire leur efficacité.</string>
+    <string name="fc_qst6">Qu\'est-ce que la planification familiale naturelle ?</string>
+    <string name="fc_qst6_opt1">L\'utilisation de méthodes barrières de contraception.</string>
+    <string name="fc_qst6_opt2">Le suivi des cycles menstruels pour déterminer la fertilité.</string>
+    <string name="fc_qst6_opt3">La stérilisation.</string>
+    <string name="fc_qst6_opt4">L\'utilisation de la contraception d\'urgence.</string>
+    <string name="fc_qst6_answer">Le suivi des cycles menstruels pour déterminer la fertilité.</string>
+    <string name="fc_qst6_justif">La planification familiale naturelle, également appelée méthode de l\'ovulation ou méthode du calendrier, implique de surveiller les changements dans les cycles menstruels pour identifier les périodes fertiles et non fertiles. Cela peut être utilisé comme méthode contraceptive, mais elle nécessite une surveillance attentive et peut être moins fiable que d\'autres méthodes.</string>
+    <string name="fc_qst7">Quel est le but de la stérilisation en tant que méthode contraceptive ?</string>
+    <string name="fc_qst7_opt1">Prévenir l\'ovulation.</string>
+    <string name="fc_qst7_opt2">Bloquer les trompes de Fallope.</string>
+    <string name="fc_qst7_opt3">Épaissir le mucus cervical.</string>
+    <string name="fc_qst7_opt4">Réduire la mobilité des spermatozoïdes.</string>
+    <string name="fc_qst7_answer">Bloquer les trompes de Fallope.</string>
+    <string name="fc_qst7_justif">La stérilisation féminine ou masculine implique la fermeture permanente des trompes de Fallope chez les femmes ou du canal déférent chez les hommes. Cela empêche les spermatozoïdes de rencontrer les ovules, ce qui empêche la fécondation et la grossesse.</string>
+    <string name="fc_qst8">Quel est l\'âge recommandé pour commencer à utiliser la contraception ?</string>
+    <string name="fc_qst8_opt1">Au début des menstruations.</string>
+    <string name="fc_qst8_opt2">Après la première expérience sexuelle.</string>
+    <string name="fc_qst8_opt3">Avant de se marier.</string>
+    <string name="fc_qst8_opt4">Lors de la planification d\'avoir un enfant.</string>
+    <string name="fc_qst8_answer">Au début des menstruations.</string>
+    <string name="fc_qst8_justif">Le début des menstruations, appelé ménarche, marque le début de la fertilité. Il est recommandé de commencer à utiliser la contraception autour de cette période pour éviter les grossesses non désirées à mesure que les individus deviennent capables de fonctions reproductrices.</string>
+    <string name="fc_qst9">Les contraceptifs peuvent-ils protéger contre les infections sexuellement transmissibles (IST) ?</string>
+    <string name="fc_qst9_opt1">Oui, tous les contraceptifs fournissent une protection contre les IST.</string>
+    <string name="fc_qst9_opt2">Non, les contraceptifs ne protègent pas contre les IST.</string>
+    <string name="fc_qst9_opt3">Seules les méthodes contraceptives barrières protègent des IST.</string>
+    <string name="fc_qst9_opt4">Les contraceptifs peuvent parfois protéger contre les IST.</string>
+    <string name="fc_qst9_answer">Non, les contraceptifs ne protègent pas contre les IST.</string>
+    <string name="fc_qst9_justif">La plupart des contraceptifs sont conçus uniquement pour prévenir la grossesse et ne protègent pas contre les infections sexuellement transmissibles (IST). Les méthodes barrières, comme les préservatifs, font exception en offrant une protection double contre la grossesse et la transmission des IST.</string>
+    <string name="fc_qst10">Quel est le but d\'un implant contraceptif ?</string>
+    <string name="fc_qst10_opt1">Fournir une contraception à long terme.</string>
+    <string name="fc_qst10_opt2">Prévenir l\'ovulation.</string>
+    <string name="fc_qst10_opt3">Bloquer les trompes de Fallope.</string>
+    <string name="fc_qst10_opt4">Épaissir le mucus cervical.</string>
+    <string name="fc_qst10_answer">Fournir une contraception à long terme.</string>
+    <string name="fc_qst10_justif">Les implants contraceptifs sont de petits dispositifs insérés sous la peau qui libèrent des hormones pour prévenir la grossesse. Ils offrent une solution contraceptive hautement efficace et à long terme sans nécessité d\'administration quotidienne, assurant une protection continue sur plusieurs années.</string>
+
+    <!-- Intimate health -->
+
+    <string name="int_qst1">Qu\'est-ce que la santé intime ?</string>
+    <string name="int_qst1_opt1">Bien-être général du système reproducteur.</string>
+    <string name="int_qst1_opt2">Bien-être physique et émotionnel dans les relations amoureuses.</string>
+    <string name="int_qst1_opt3">Maintien de relations intimes saines.</string>
+    <string name="int_qst1_opt4">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst1_answer">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst1_justif">La santé intime englobe différents aspects, notamment le bien-être du système reproducteur, la santé physique et émotionnelle au sein des relations amoureuses, ainsi que le maintien de relations intimes saines dans l\'ensemble.</string>
+
+    <string name="int_qst2">Quels sont quelques problèmes de santé intime courants chez les femmes ?</string>
+    <string name="int_qst2_opt1">Infections vaginales.</string>
+    <string name="int_qst2_opt2">Infections des voies urinaires.</string>
+    <string name="int_qst2_opt3">Infections sexuellement transmissibles (IST).</string>
+    <string name="int_qst2_opt4">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst2_answer">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst2_justif">Les problèmes de santé intime courants chez les femmes incluent les infections vaginales, les infections des voies urinaires et les infections sexuellement transmissibles. Ces problèmes peuvent avoir un impact sur le bien-être physique et émotionnel.</string>
+
+    <string name="int_qst3">Quelles sont quelques pratiques recommandées pour maintenir la santé intime ?</string>
+    <string name="int_qst3_opt1">Pratiquer des rapports sexuels protégés.</string>
+    <string name="int_qst3_opt2">Maintenir une bonne hygiène.</string>
+    <string name="int_qst3_opt3">Consulter régulièrement un professionnel de la santé.</string>
+    <string name="int_qst3_opt4">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst3_answer">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst3_justif">Le maintien de la santé intime implique de pratiquer des rapports sexuels protégés, de maintenir une bonne hygiène et de consulter régulièrement un professionnel de la santé. Ces pratiques contribuent au bien-être général.</string>
+
+    <string name="int_qst4">Quels sont quelques signes d\'une infection vaginale ?</string>
+    <string name="int_qst4_opt1">Écoulement anormal.</string>
+    <string name="int_qst4_opt2">Démangeaisons ou irritations.</string>
+    <string name="int_qst4_opt3">Odeur désagréable.</string>
+    <string name="int_qst4_opt4">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst4_answer">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst4_justif">Les signes d\'une infection vaginale peuvent inclure un écoulement anormal, des démangeaisons ou irritations, ainsi qu\'une odeur désagréable. Ces symptômes peuvent indiquer un déséquilibre de la santé vaginale.</string>
+
+    <string name="int_qst5">Quelles sont quelques façons de prévenir les infections des voies urinaires (IVU) ?</string>
+    <string name="int_qst5_opt1">Boire beaucoup d\'eau.</string>
+    <string name="int_qst5_opt2">Uriner avant et après l\'activité sexuelle.</string>
+    <string name="int_qst5_opt3">S\'essuyer de l\'avant vers l\'arrière après être allé aux toilettes.</string>
+    <string name="int_qst5_opt4">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst5_answer">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst5_justif">La prévention des IVU implique de rester hydraté, d\'uriner avant et après l\'activité sexuelle, ainsi que de maintenir de bonnes pratiques d\'hygiène. Ces mesures peuvent aider à réduire le risque d\'infection.</string>
+
+    <string name="int_qst6">Pourquoi est-il important de communiquer avec votre partenaire concernant la santé intime ?</string>
+    <string name="int_qst6_opt1">Maintenir une communication ouverte et honnête.</string>
+    <string name="int_qst6_opt2">Discuter de toutes préoccupations ou problèmes.</string>
+    <string name="int_qst6_opt3">S\'assurer que les deux partenaires sont informés et impliqués.</string>
+    <string name="int_qst6_opt4">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst6_answer">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst6_justif">La communication ouverte concernant la santé intime est essentielle pour maintenir la confiance et la compréhension dans une relation. Discuter des préoccupations et impliquer les deux partenaires garantit une approche solidaire et informée du bien-être intime.</string>
+
+    <string name="int_qst7">Quels sont quelques produits recommandés pour maintenir la santé intime ?</string>
+    <string name="int_qst7_opt1">Nettoyants doux ou gels spécialement conçus pour une utilisation intime.</string>
+    <string name="int_qst7_opt2">Produits non parfumés et hypoallergéniques.</string>
+    <string name="int_qst7_opt3">Sous-vêtements en coton.</string>
+    <string name="int_qst7_opt4">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst7_answer">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst7_justif">Les produits recommandés pour maintenir la santé intime incluent les nettoyants doux ou gels conçus spécifiquement pour une utilisation intime, les produits non parfumés et hypoallergéniques, ainsi que les sous-vêtements en coton qui favorisent la circulation de l\'air.</string>
+
+    <string name="int_qst8">Que devriez-vous faire si vous ressentez un inconfort ou une douleur persistante pendant les rapports sexuels ?</string>
+    <string name="int_qst8_opt1">Demander l\'avis d\'un professionnel de la santé.</string>
+    <string name="int_qst8_opt2">Communiquer avec votre partenaire au sujet du problème.</string>
+    <string name="int_qst8_opt3">Expérimenter différentes positions ou lubrifiants.</string>
+    <string name="int_qst8_opt4">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst8_answer">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst8_justif">Ressentir un inconfort ou une douleur persistante pendant les rapports sexuels devrait vous inciter à demander l\'avis d\'un professionnel de la santé. De plus, une communication ouverte avec votre partenaire et l\'essai de différentes approches peuvent contribuer à trouver des solutions au problème.</string>
+
+    <string name="int_qst9">Quelles sont quelques façons de promouvoir l\'intimité émotionnelle dans une relation ?</string>
+    <string name="int_qst9_opt1">Communication ouverte et honnête.</string>
+    <string name="int_qst9_opt2">Écoute active.</string>
+    <string name="int_qst9_opt3">Faire preuve d\'empathie et de compréhension.</string>
+    <string name="int_qst9_opt4">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst9_answer">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst9_justif">Promouvoir l\'intimité émotionnelle implique une communication ouverte et honnête, une écoute active des sentiments de chacun et la démonstration d\'empathie et de compréhension. Ces pratiques renforcent la connexion émotionnelle au sein d\'une relation.</string>
+
+    <string name="int_qst10">Pourquoi est-il important de prioriser les soins personnels en matière de santé intime ?</string>
+    <string name="int_qst10_opt1">Maintenir le bien-être général et le bonheur.</string>
+    <string name="int_qst10_opt2">Améliorer la confiance en soi et l\'image corporelle.</string>
+    <string name="int_qst10_opt3">Réduire le stress et favoriser la relaxation.</string>
+    <string name="int_qst10_opt4">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst10_answer">Toutes les réponses ci-dessus.</string>
+    <string name="int_qst10_justif">Prioriser les soins personnels en matière de santé intime contribue au bien-être général, améliore la confiance en soi et l\'image corporelle, et aide à réduire le stress et à favoriser la relaxation. Ces facteurs soutiennent collectivement une vie intime plus saine et épanouissante.</string>
+
+    <!-- Cycle Menstruel -->
+
+    <string name="cycle_qst1">Qu\'est-ce que le cycle menstruel ?</string>
+    <string name="cycle_qst1_opt1">Le processus de desquamation de la muqueuse utérine.</string>
+    <string name="cycle_qst1_opt2">La libération d\'un ovule non fécondé des ovaires.</string>
+    <string name="cycle_qst1_opt3">L\'ensemble du cycle de reproduction chez une femme.</string>
+    <string name="cycle_qst1_opt4">La production d\'hormones par le système endocrinien.</string>
+    <string name="cycle_qst1_answer">L\'ensemble du cycle de reproduction chez une femme.</string>
+    <string name="cycle_qst1_justif">Le cycle menstruel englobe divers changements hormonaux et physiologiques qui surviennent dans le corps d\'une femme, en se préparant à une éventuelle grossesse et à la desquamation de la muqueuse utérine si la grossesse ne se produit pas.</string>
+
+    <string name="cycle_qst2">Quelle est la durée moyenne d\'un cycle menstruel ?</string>
+    <string name="cycle_qst2_opt1">14 jours.</string>
+    <string name="cycle_qst2_opt2">28 jours.</string>
+    <string name="cycle_qst2_opt3">35 jours.</string>
+    <string name="cycle_qst2_opt4">42 jours.</string>
+    <string name="cycle_qst2_answer">28 jours.</string>
+    <string name="cycle_qst2_justif">Le cycle menstruel moyen dure généralement environ 28 jours, bien que des variations de la durée du cycle soient courantes chez les individus.</string>
+
+    <string name="cycle_qst3">Quelle hormone est responsable de la stimulation de la croissance et du développement de la muqueuse utérine ?</string>
+    <string name="cycle_qst3_opt1">L\'œstrogène.</string>
+    <string name="cycle_qst3_opt2">La progestérone.</string>
+    <string name="cycle_qst3_opt3">L\'hormone lutéinisante (LH).</string>
+    <string name="cycle_qst3_opt4">L\'hormone folliculo-stimulante (FSH).</string>
+    <string name="cycle_qst3_answer">L\'œstrogène.</string>
+    <string name="cycle_qst3_justif">L\'œstrogène joue un rôle crucial dans la stimulation de la croissance et du développement de la muqueuse utérine pendant la première moitié du cycle menstruel.</string>
+
+    <string name="cycle_qst4">Quand survient généralement l\'ovulation dans un cycle menstruel ?</string>
+    <string name="cycle_qst4_opt1">Au début du cycle.</string>
+    <string name="cycle_qst4_opt2">Au milieu du cycle.</string>
+    <string name="cycle_qst4_opt3">À la fin du cycle.</string>
+    <string name="cycle_qst4_opt4">Tout au long du cycle.</string>
+    <string name="cycle_qst4_answer">Au milieu du cycle.</string>
+    <string name="cycle_qst4_justif">L\'ovulation survient généralement au milieu du cycle menstruel, vers le 14e jour, et marque la libération d\'un ovule de l\'ovaire, prêt pour une éventuelle fécondation.</string>
+
+    <string name="cycle_qst5">Quel est le rôle de la phase lutéale du cycle menstruel ?</string>
+    <string name="cycle_qst5_opt1">Préparer l\'utérus pour la grossesse.</string>
+    <string name="cycle_qst5_opt2">Desquamer la muqueuse utérine.</string>
+    <string name="cycle_qst5_opt3">Libérer un ovule non fécondé.</string>
+    <string name="cycle_qst5_opt4">Produire des hormones qui régulent le cycle.</string>
+    <string name="cycle_qst5_answer">Préparer l\'utérus pour la grossesse.</string>
+    <string name="cycle_qst5_justif">La phase lutéale suit l\'ovulation et implique le développement de la muqueuse utérine pour créer un environnement propice à une éventuelle grossesse. Si la fécondation ne se produit pas, la muqueuse utérine est finalement desquamée.</string>
+
+    <string name="cycle_qst6">Qu\'est-ce que l\'aménorrhée ?</string>
+    <string name="cycle_qst6_opt1">Hémorragie menstruelle excessive.</string>
+    <string name="cycle_qst6_opt2">Absence de menstruation.</string>
+    <string name="cycle_qst6_opt3">Menstruations douloureuses.</string>
+    <string name="cycle_qst6_opt4">Cycles menstruels irréguliers.</string>
+    <string name="cycle_qst6_answer">Absence de menstruation.</string>
+    <string name="cycle_qst6_justif">L\'aménorrhée désigne l\'absence de règles menstruelles, qui peut être causée par des facteurs tels que la grossesse, certaines affections médicales ou des modifications de l\'équilibre hormonal.</string>
+
+    <string name="cycle_qst7">Quel est le rôle du corps jaune dans le cycle menstruel ?</string>
+    <string name="cycle_qst7_opt1">Produire de l\'œstrogène.</string>
+    <string name="cycle_qst7_opt2">Produire de la progestérone.</string>
+    <string name="cycle_qst7_opt3">Libérer l\'ovule lors de l\'ovulation.</string>
+    <string name="cycle_qst7_opt4">Régénérer la muqueuse utérine.</string>
+    <string name="cycle_qst7_answer">Produire de la progestérone.</string>
+    <string name="cycle_qst7_justif">Le corps jaune, formé à partir du follicule qui a libéré l\'ovule lors de l\'ovulation, joue un rôle clé dans la production de progestérone, qui maintient la muqueuse utérine et soutient une éventuelle grossesse.</string>
+
+    <string name="cycle_qst8">Que se passe-t-il si la fécondation et l\'implantation ne se produisent pas ?</string>
+    <string name="cycle_qst8_opt1">La muqueuse utérine est desquamée pendant les règles.</string>
+    <string name="cycle_qst8_opt2">Le cycle menstruel redémarre immédiatement.</string>
+    <string name="cycle_qst8_opt3">L\'utérus devient inactif jusqu\'au prochain cycle.</string>
+    <string name="cycle_qst8_opt4">Les ovaires cessent de produire des hormones.</string>
+    <string name="cycle_qst8_answer">La muqueuse utérine est desquamée pendant les règles.</string>
+    <string name="cycle_qst8_justif">Si la fécondation et l\'implantation ne se produisent pas, le corps jaune régresse, entraînant une baisse des niveaux de progestérone. Cela conduit à la desquamation de la muqueuse utérine et à l\'apparition des règles menstruelles.</string>
+
+    <string name="cycle_qst9">Quels sont certains symptômes courants pendant le cycle menstruel ?</string>
+    <string name="cycle_qst9_opt1">Sensibilité mammaire.</string>
+    <string name="cycle_qst9_opt2">Variations d\'humeur.</string>
+    <string name="cycle_qst9_opt3">Crampes.</string>
+    <string name="cycle_qst9_opt4">Tous les éléments ci-dessus.</string>
+    <string name="cycle_qst9_answer">Tous les éléments ci-dessus.</string>
+    <string name="cycle_qst9_justif">De nombreuses personnes éprouvent divers symptômes pendant leur cycle menstruel, notamment une sensibilité mammaire, des variations d\'humeur et des crampes, en raison des fluctuations hormonales et des changements dans la muqueuse utérine.</string>
+
+    <string name="cycle_qst10">Qu\'est-ce que la ménorragie ?</string>
+    <string name="cycle_qst10_opt1">Absence de menstruation.</string>
+    <string name="cycle_qst10_opt2">Saignements menstruels excessifs.</string>
+    <string name="cycle_qst10_opt3">Menstruations douloureuses.</string>
+    <string name="cycle_qst10_opt4">Cycles menstruels irréguliers.</string>
+    <string name="cycle_qst10_answer">Saignements menstruels excessifs.</string>
+    <string name="cycle_qst10_justif">La ménorragie désigne des saignements menstruels anormalement abondants ou prolongés qui peuvent avoir un impact sur la qualité de vie d\'une personne et peuvent être causés par des déséquilibres hormonaux ou certaines affections médicales.</string>
+
+    <string name="background">background</string>
+    <string name="go_back">go back</string>
+    <string name="logo">Logo</string>
+    <string name="paincare">PainCare</string>
+    <string name="image">Image</string>
+    <string name="description">Description</string>
+    <string name="content">Content</string>
+    <string name="read_full_articles">Lire l\'article complet</string>
+    <string name="exit">exit</string>
+    <string name="question_goes_here">Question goes here</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="birthday_date">Birthday Date</string>
+    <string name="notification_icon">Notification Icon</string>
+    <string name="download">Download</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="topic_name">Selected Topic Name</string>
+    <string name="option">Option</string>
+    <string name="_1_10">1/10</string>
+    <string name="question_will_appear_here">Question will appear here…</string>
+    <string name="correct_answers">Correct Answers : 0</string>
+    <string name="wrong_answers">Wrong Answers : 0</string>
+    <string name="start_new_quiz">Start New Quiz</string>
+    <string name="login_to">Login to </string>
+    <string name="login_with_email">Login with Email</string>
+    <string name="login_to_your_account">LOGIN TO YOUR ACCOUNT</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="listofthings">ListOfThings</string>
+    <string name="verify_your_email">Vérifiez votre adresse e-mail</string>
+    <string name="please_check_your_email_for_a_verification_link_to_verify_your_account">Veuillez vérifier votre adresse e-mail pour trouver un lien de vérification afin de confirmer votre compte.</string>
+    <string name="resend_verification_email">Renvoyer l\'e-mail de vérification</string>
+    <string name="return_to_login_page">Retourner à la page de connexion</string>
+    <string name="endometriosis_awareness">Endometriosis awareness</string>
+    <string name="no_events">Aucun évenement</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="enter_your_email">Enter your Email…</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="lt_back_to_login"><![CDATA[<— Back to Login]]></string>
+    <string name="hi_user_name">Hi User Name</string>
+    <string name="level">Level</string>
+    <string name="quiz">Quiz</string>
+    <string name="enter_your_password">Enter Your Password…</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="enter_your_e_mail">Enter Your E-mail…</string>
+    <string name="or">Or</string>
+    <string name="notification_settings">Notification settings</string>
+    <string name="take_diagnostic_test_once_a_month">Take diagnostic test (once a month)</string>
+    <string name="community_notifications">Community notifications</string>
+    <string name="_12_oct">12 OCT</string>
+    <string name="enter_your_name">Enter your Name…</string>
+    <string name="confirm_password">Confirm Password…</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log in</string>
+    <string name="sign_up_for">Sign up for</string>
+    <string name="update_blog">Update Blog</string>
+    <string name="update">Update</string>
+    <string name="add_your_birthday">Add your birthday ?</string>
+    <string name="user_name">User Name</string>
+
+</resources>

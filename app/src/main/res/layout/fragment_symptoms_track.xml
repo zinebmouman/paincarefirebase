@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.spmenais.paincare.Fragments.SymptomsTrackFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent">
+
+        <!-- Toolbar -->
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@drawable/background"
+            android:elevation="4dp"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Dark">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/leftIcon"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp"
+                    android:src="@drawable/menuicon"
+                    android:contentDescription="@string/go_back"
+                    android:padding="8dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true" />
+
+                <TextView
+                    android:id="@+id/currentDateTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/today"
+                    android:textColor="#393E46"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:layout_toEndOf="@id/leftIcon"
+                    android:layout_toStartOf="@+id/notificationIcon"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginEnd="8dp" />
+
+                <ImageView
+                    android:id="@+id/notificationIcon"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/alarm_icon"
+                    android:contentDescription="@string/notification_icon"
+                    android:padding="8dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true" />
+
+            </RelativeLayout>
+        </androidx.appcompat.widget.Toolbar>
+        <!-- Content -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/toolbar"
+            android:layout_above="@+id/buttonLayout">
+
+            <LinearLayout
+                android:id="@+id/FirstSection"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:paddingBottom="5dp"
+                android:paddingHorizontal="16dp"
+                android:paddingTop="16dp">
+
+                <LinearLayout
+                    android:id="@+id/painLevelLayout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@id/painscore"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/pain_level"
+                        android:textColor="#333333"
+                        android:textSize="23sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/painLevelTextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textColor="@color/green"
+                        android:textSize="18sp"
+                        android:layout_marginStart="8dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginBottom="20dp">
+
+                    <com.google.android.material.slider.Slider
+                        android:id="@+id/painscore"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        tools:ignore="SpeakableTextPresentCheck"
+                        android:stepSize="1.0"
+                        android:valueFrom="0"
+                        android:valueTo="10"
+                        app:haloColor="@color/light_pink"
+                        app:trackColor="@color/light_pink"
+                        app:thumbColor="@color/pink" />
+
+                    <!--<SeekBar
+                        android:id="@+id/painscore"
+                        style="@style/Widget.AppCompat.SeekBar.Discrete"
+                        android:layout_width="match_parent"
+                        android:layout_height="65dp"
+                        android:max="9"
+                        android:progress="3" /-->
+
+                </LinearLayout>
+                <!-- Thin Line -->
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1.5dp"
+                    android:background="@color/verylight_grey" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="20dp"
+                    android:orientation="vertical">
+
+                    <androidx.recyclerview.widget.RecyclerView
+                        android:id="@+id/main_recyclerview"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        app:layout_constraintTop_toBottomOf="@id/painscore"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintVertical_bias="0.5" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <!-- Submit and Cancel buttons -->
+        <LinearLayout
+            android:id="@+id/buttonLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_alignParentBottom="true"
+            android:layout_marginHorizontal="16dp">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/submitButton"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:padding="14dp"
+                android:text="@string/submit"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="@color/pink"
+                android:background="@drawable/submit_pink_button"
+                tools:ignore="VisualLintButtonSize" />
+
+        </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>

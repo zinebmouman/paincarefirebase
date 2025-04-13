@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196982219008",
+    "project_id": "paincare-7c994",
+    "storage_bucket": "paincare-7c994.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196982219008:android:5b5bcc42a5f07f97a7d3e5",
+        "android_client_info": {
+          "package_name": "com.spmenais.paincare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChUwz8DLjRf9yWLoOpauTGdQ3MsgsU0-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
